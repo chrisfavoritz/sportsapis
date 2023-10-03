@@ -1,0 +1,22 @@
+{
+  "items": [
+    { "name": "Arminia Bielefeld", "img": "placeholder" },
+    { "name": "Augsburg", "img": "placeholder" },
+    { "name": "Bayer Leverkusen", "img": "placeholder" },
+    { "name": "Bayern Munich", "img": "placeholder" },
+    { "name": "Bochum", "img": "placeholder" },
+    { "name": "Borussia Dortmund", "img": "placeholder" },
+    { "name": "Borussia Mönchengladbach", "img": "placeholder" },
+    { "name": "Eintracht Frankfurt", "img": "placeholder" },
+    { "name": "FC Köln (Cologne)", "img": "placeholder" },
+    { "name": "Freiburg", "img": "placeholder" },
+    { "name": "Hertha BSC", "img": "placeholder" },
+    { "name": "Mainz 05", "img": "placeholder" },
+    { "name": "RB Leipzig", "img": "placeholder" },
+    { "name": "Schalke 04", "img": "placeholder" },
+    { "name": "Stuttgart", "img": "placeholder" },
+    { "name": "Union Berlin", "img": "placeholder" },
+    { "name": "VfL Wolfsburg", "img": "placeholder" },
+    { "name": "Werder Bremen", "img": "placeholder" }
+  ]
+}
