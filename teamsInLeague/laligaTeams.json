@@ -1,0 +1,24 @@
+{
+  "items": [
+    { "name": "Alavés", "img": "placeholder" },
+    { "name": "Athletic Bilbao", "img": "placeholder" },
+    { "name": "Atlético Madrid", "img": "placeholder" },
+    { "name": "Barcelona", "img": "placeholder" },
+    { "name": "Cádiz", "img": "placeholder" },
+    { "name": "Celta Vigo", "img": "placeholder" },
+    { "name": "Eibar", "img": "placeholder" },
+    { "name": "Elche", "img": "placeholder" },
+    { "name": "Getafe", "img": "placeholder" },
+    { "name": "Granada", "img": "placeholder" },
+    { "name": "Levante", "img": "placeholder" },
+    { "name": "Mallorca", "img": "placeholder" },
+    { "name": "Osasuna", "img": "placeholder" },
+    { "name": "Rayo Vallecano", "img": "placeholder" },
+    { "name": "Real Betis", "img": "placeholder" },
+    { "name": "Real Madrid", "img": "placeholder" },
+    { "name": "Real Sociedad", "img": "placeholder" },
+    { "name": "Sevilla", "img": "placeholder" },
+    { "name": "Valencia", "img": "placeholder" },
+    { "name": "Villarreal", "img": "placeholder" }
+  ]
+}
