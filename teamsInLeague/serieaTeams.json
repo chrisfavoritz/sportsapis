@@ -1,0 +1,24 @@
+{
+  "items": [
+    { "name": "Atalanta", "img": "placeholder" },
+    { "name": "Bologna", "img": "placeholder" },
+    { "name": "Cagliari", "img": "placeholder" },
+    { "name": "Empoli", "img": "placeholder" },
+    { "name": "Fiorentina", "img": "placeholder" },
+    { "name": "Genoa", "img": "placeholder" },
+    { "name": "Hellas Verona", "img": "placeholder" },
+    { "name": "Inter Milan", "img": "placeholder" },
+    { "name": "Juventus", "img": "placeholder" },
+    { "name": "Lazio", "img": "placeholder" },
+    { "name": "Milan", "img": "placeholder" },
+    { "name": "Napoli", "img": "placeholder" },
+    { "name": "Roma", "img": "placeholder" },
+    { "name": "Salernitana", "img": "placeholder" },
+    { "name": "Sampdoria", "img": "placeholder" },
+    { "name": "Sassuolo", "img": "placeholder" },
+    { "name": "Spezia", "img": "placeholder" },
+    { "name": "Torino", "img": "placeholder" },
+    { "name": "Udinese", "img": "placeholder" },
+    { "name": "Venezia", "img": "placeholder" }
+  ]
+}
