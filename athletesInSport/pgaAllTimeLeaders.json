@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "name": "Sam Snead", "img": "placeholder" },
+    { "name": "Tiger Woods", "img": "placeholder" },
+    { "name": "Jack Nicklaus", "img": "placeholder" },
+    { "name": "Ben Hogan", "img": "placeholder" },
+    { "name": "Arnold Palmer", "img": "placeholder" },
+    { "name": "Byron Nelson", "img": "placeholder" },
+    { "name": "Billy Casper", "img": "placeholder" },
+    { "name": "Walter Hagen", "img": "placeholder" },
+    { "name": "Phil Mickelson", "img": "placeholder" },
+    { "name": "Cary Middlecoff", "img": "placeholder" },
+    { "name": "Gene Sarazen", "img": "placeholder" },
+    { "name": "Tom Watson", "img": "placeholder" },
+    { "name": "Lloyd Mangrum", "img": "placeholder" },
+    { "name": "Tommy Armour", "img": "placeholder" },
+    { "name": "Vijay Singh", "img": "placeholder" },
+    { "name": "Horton Smith", "img": "placeholder" },
+    { "name": "Johnny Miller", "img": "placeholder" },
+    { "name": "Paul Runyan", "img": "placeholder" },
+    { "name": "Leo Diegel", "img": "placeholder" },
+    { "name": "Bobby Locke", "img": "placeholder" },
+    { "name": "Jerry Barber", "img": "placeholder" },
+    { "name": "Jimmy Demaret", "img": "placeholder" },
+    { "name": "Macdonald Smith", "img": "placeholder" },
+    { "name": "Gene Littler", "img": "placeholder" },
+    { "name": "Lee Trevino", "img": "placeholder" }
+  ]
+}
