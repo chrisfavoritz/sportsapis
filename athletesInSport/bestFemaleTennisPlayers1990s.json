@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "name": "Steffi Graf", "img": "placeholder" },
+    { "name": "Monica Seles", "img": "placeholder" },
+    { "name": "Martina Navratilova", "img": "placeholder" },
+    { "name": "Arantxa Sánchez Vicario", "img": "placeholder" },
+    { "name": "Gabriela Sabatini", "img": "placeholder" },
+    { "name": "Jennifer Capriati", "img": "placeholder" },
+    { "name": "Conchita Martínez", "img": "placeholder" },
+    { "name": "Jana Novotná", "img": "placeholder" },
+    { "name": "Mary Pierce", "img": "placeholder" },
+    { "name": "Lindsay Davenport", "img": "placeholder" },
+    { "name": "Kimiko Date", "img": "placeholder" },
+    { "name": "Natasha Zvereva", "img": "placeholder" },
+    { "name": "Magdalena Maleeva", "img": "placeholder" },
+    { "name": "Amanda Coetzer", "img": "placeholder" },
+    { "name": "Anke Huber", "img": "placeholder" },
+    { "name": "Iva Majoli", "img": "placeholder" },
+    { "name": "Chanda Rubin", "img": "placeholder" },
+    { "name": "Barbara Paulus", "img": "placeholder" },
+    { "name": "Brenda Schultz-McCarthy", "img": "placeholder" },
+    { "name": "Julie Halard-Decugis", "img": "placeholder" },
+    { "name": "Irina Spirlea", "img": "placeholder" },
+    { "name": "Sandrine Testud", "img": "placeholder" },
+    { "name": "Amy Frazier", "img": "placeholder" },
+    { "name": "Judith Wiesner", "img": "placeholder" },
+    { "name": "Dominique Van Roost", "img": "placeholder" }
+  ]
+}
