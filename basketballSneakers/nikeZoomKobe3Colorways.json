@@ -1,0 +1,22 @@
+{
+  "items": [
+    { "name": "All-Star", "img": "placeholder" },
+    { "name": "Black Mamba", "img": "placeholder" },
+    { "name": "Prelude", "img": "placeholder" },
+    { "name": "Lower Merion Aces (Home)", "img": "placeholder" },
+    { "name": "Lower Merion Aces (Away)", "img": "placeholder" },
+    { "name": "White/Purple/Yellow (Lakers Home)", "img": "placeholder" },
+    { "name": "Black/Purple/Yellow (Lakers Away)", "img": "placeholder" },
+    { "name": "Hornets", "img": "placeholder" },
+    { "name": "MVP", "img": "placeholder" },
+    { "name": "Draft Day", "img": "placeholder" },
+    { "name": "Rings", "img": "placeholder" },
+    { "name": "Christmas", "img": "placeholder" },
+    { "name": "Carpe Diem", "img": "placeholder" },
+    { "name": "White/Black/Red", "img": "placeholder" },
+    { "name": "White/Red/Black", "img": "placeholder" },
+    { "name": "White/Purple/Yellow", "img": "placeholder" },
+    { "name": "Del Sol", "img": "placeholder" },
+    { "name": "Laser", "img": "placeholder" }
+  ]
+}
