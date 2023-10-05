@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "name": "Jerry Rice", "img": "placeholder" },
+    { "name": "Randy Moss", "img": "placeholder" },
+    { "name": "Terrell Owens", "img": "placeholder" },
+    { "name": "Larry Fitzgerald", "img": "placeholder" },
+    { "name": "Calvin Johnson", "img": "placeholder" },
+    { "name": "Don Hutson", "img": "placeholder" },
+    { "name": "Steve Largent", "img": "placeholder" },
+    { "name": "Tim Brown", "img": "placeholder" },
+    { "name": "Cris Carter", "img": "placeholder" },
+    { "name": "Marvin Harrison", "img": "placeholder" },
+    { "name": "Raymond Berry", "img": "placeholder" },
+    { "name": "Paul Warfield", "img": "placeholder" },
+    { "name": "Michael Irvin", "img": "placeholder" },
+    { "name": "Lance Alworth", "img": "placeholder" },
+    { "name": "Isaac Bruce", "img": "placeholder" },
+    { "name": "Art Monk", "img": "placeholder" },
+    { "name": "Sterling Sharpe", "img": "placeholder" },
+    { "name": "Andre Reed", "img": "placeholder" },
+    { "name": "Reggie Wayne", "img": "placeholder" },
+    { "name": "James Lofton", "img": "placeholder" },
+    { "name": "Herman Moore", "img": "placeholder" },
+    { "name": "Torry Holt", "img": "placeholder" },
+    { "name": "Fred Biletnikoff", "img": "placeholder" },
+    { "name": "Rod Smith", "img": "placeholder" },
+    { "name": "John Stallworth", "img": "placeholder" }
+  ]
+}
