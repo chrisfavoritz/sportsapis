@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "name": "Gordie Howe", "img": "placeholder" },
+    { "name": "Maurice Richard", "img": "placeholder" },
+    { "name": "Jaromir Jagr", "img": "placeholder" },
+    { "name": "Teemu Selänne", "img": "placeholder" },
+    { "name": "Brett Hull", "img": "placeholder" },
+    { "name": "Guy Lafleur", "img": "placeholder" },
+    { "name": "Alex Ovechkin", "img": "placeholder" },
+    { "name": "Luc Robitaille", "img": "placeholder" },
+    { "name": "Brendan Shanahan", "img": "placeholder" },
+    { "name": "Mike Bossy", "img": "placeholder" },
+    { "name": "Frank Mahovlich", "img": "placeholder" },
+    { "name": "Pavel Bure", "img": "placeholder" },
+    { "name": "Phil Kessel", "img": "placeholder" },
+    { "name": "Pavel Datsyuk", "img": "placeholder" },
+    { "name": "Paul Kariya", "img": "placeholder" },
+    { "name": "Rick Middleton", "img": "placeholder" },
+    { "name": "Brett Hart", "img": "placeholder" },
+    { "name": "Johnny Bucyk", "img": "placeholder" },
+    { "name": "Cam Neely", "img": "placeholder" },
+    { "name": "Dave Andreychuk", "img": "placeholder" },
+    { "name": "Dino Ciccarelli", "img": "placeholder" },
+    { "name": "Glenn Anderson", "img": "placeholder" },
+    { "name": "Mike Gartner", "img": "placeholder" },
+    { "name": "Rick Nash", "img": "placeholder" },
+    { "name": "Patrick Kane", "img": "placeholder" }
+  ]
+}
