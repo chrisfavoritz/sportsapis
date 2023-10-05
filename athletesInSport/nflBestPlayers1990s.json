@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "name": "Jerry Rice", "img": "placeholder" },
+    { "name": "Emmitt Smith", "img": "placeholder" },
+    { "name": "Joe Montana", "img": "placeholder" },
+    { "name": "Barry Sanders", "img": "placeholder" },
+    { "name": "Reggie White", "img": "placeholder" },
+    { "name": "Deion Sanders", "img": "placeholder" },
+    { "name": "Troy Aikman", "img": "placeholder" },
+    { "name": "Bruce Smith", "img": "placeholder" },
+    { "name": "Steve Young", "img": "placeholder" },
+    { "name": "Dan Marino", "img": "placeholder" },
+    { "name": "Thurman Thomas", "img": "placeholder" },
+    { "name": "Derrick Thomas", "img": "placeholder" },
+    { "name": "John Elway", "img": "placeholder" },
+    { "name": "Brett Favre", "img": "placeholder" },
+    { "name": "Junior Seau", "img": "placeholder" },
+    { "name": "Bruce Matthews", "img": "placeholder" },
+    { "name": "Randall Cunningham", "img": "placeholder" },
+    { "name": "Jerry Rice", "img": "placeholder" },
+    { "name": "Ronnie Lott", "img": "placeholder" },
+    { "name": "Shannon Sharpe", "img": "placeholder" },
+    { "name": "Derrick Brooks", "img": "placeholder" },
+    { "name": "Rod Woodson", "img": "placeholder" },
+    { "name": "Steve Atwater", "img": "placeholder" },
+    { "name": "Marshall Faulk", "img": "placeholder" },
+    { "name": "Kevin Greene", "img": "placeholder" }
+  ]
+}
