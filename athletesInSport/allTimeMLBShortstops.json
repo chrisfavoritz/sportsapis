@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "name": "Honus Wagner", "img": "placeholder" },
+    { "name": "Cal Ripken Jr.", "img": "placeholder" },
+    { "name": "Ozzie Smith", "img": "placeholder" },
+    { "name": "Derek Jeter", "img": "placeholder" },
+    { "name": "Alex Rodriguez", "img": "placeholder" },
+    { "name": "Ernie Banks", "img": "placeholder" },
+    { "name": "Robin Yount", "img": "placeholder" },
+    { "name": "Lou Boudreau", "img": "placeholder" },
+    { "name": "Arky Vaughan", "img": "placeholder" },
+    { "name": "Alan Trammell", "img": "placeholder" },
+    { "name": "Barry Larkin", "img": "placeholder" },
+    { "name": "Joe Cronin", "img": "placeholder" },
+    { "name": "Pee Wee Reese", "img": "placeholder" },
+    { "name": "Luke Appling", "img": "placeholder" },
+    { "name": "Derek Jeter", "img": "placeholder" },
+    { "name": "Luis Aparicio", "img": "placeholder" },
+    { "name": "Troy Tulowitzki", "img": "placeholder" },
+    { "name": "Carlos Correa", "img": "placeholder" },
+    { "name": "Jimmy Rollins", "img": "placeholder" },
+    { "name": "Nomar Garciaparra", "img": "placeholder" },
+    { "name": "Miguel Tejada", "img": "placeholder" },
+    { "name": "Dave Concepcion", "img": "placeholder" },
+    { "name": "Rafael Furcal", "img": "placeholder" },
+    { "name": "Bert Campaneris", "img": "placeholder" },
+    { "name": "Omar Vizquel", "img": "placeholder" }
+  ]
+}
