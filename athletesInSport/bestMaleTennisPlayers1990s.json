@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "name": "Pete Sampras", "img": "placeholder" },
+    { "name": "Andre Agassi", "img": "placeholder" },
+    { "name": "Boris Becker", "img": "placeholder" },
+    { "name": "Stefan Edberg", "img": "placeholder" },
+    { "name": "Jim Courier", "img": "placeholder" },
+    { "name": "Michael Chang", "img": "placeholder" },
+    { "name": "Goran Ivanišević", "img": "placeholder" },
+    { "name": "Yevgeny Kafelnikov", "img": "placeholder" },
+    { "name": "Thomas Muster", "img": "placeholder" },
+    { "name": "Carlos Moyà", "img": "placeholder" },
+    { "name": "Richard Krajicek", "img": "placeholder" },
+    { "name": "Patrick Rafter", "img": "placeholder" },
+    { "name": "Sergi Bruguera", "img": "placeholder" },
+    { "name": "Wayne Ferreira", "img": "placeholder" },
+    { "name": "Cedric Pioline", "img": "placeholder" },
+    { "name": "Albert Costa", "img": "placeholder" },
+    { "name": "Gustavo Kuerten", "img": "placeholder" },
+    { "name": "Petr Korda", "img": "placeholder" },
+    { "name": "Todd Martin", "img": "placeholder" },
+    { "name": "Magnus Norman", "img": "placeholder" },
+    { "name": "Mark Philippoussis", "img": "placeholder" },
+    { "name": "Marcelo Ríos", "img": "placeholder" },
+    { "name": "Greg Rusedski", "img": "placeholder" },
+    { "name": "Tim Henman", "img": "placeholder" },
+    { "name": "Jonas Björkman", "img": "placeholder" }
+  ]
+}
