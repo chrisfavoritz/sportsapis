@@ -1,0 +1,26 @@
+{
+  "items": [
+    { "name": "Carpe Diem", "img": "placeholder" },
+    { "name": "MLK Day", "img": "placeholder" },
+    { "name": "All-Star", "img": "placeholder" },
+    { "name": "Del Sol", "img": "placeholder" },
+    { "name": "Finals", "img": "placeholder" },
+    { "name": "NBA MVP", "img": "placeholder" },
+    { "name": "Pop Playoff Pack", "img": "placeholder" },
+    { "name": "Lower Merion Aces", "img": "placeholder" },
+    { "name": "Away", "img": "placeholder" },
+    { "name": "Home", "img": "placeholder" },
+    { "name": "Hornets", "img": "placeholder" },
+    { "name": "Inline", "img": "placeholder" },
+    { "name": "Olympic", "img": "placeholder" },
+    { "name": "Playoff Pack", "img": "placeholder" },
+    { "name": "White/Purple/Yellow (Lakers Home)", "img": "placeholder" },
+    { "name": "Black/Purple/Yellow (Lakers Away)", "img": "placeholder" },
+    { "name": "White/Black/Red", "img": "placeholder" },
+    { "name": "White/Purple/Yellow", "img": "placeholder" },
+    { "name": "Inline White/Black", "img": "placeholder" },
+    { "name": "Inline Black/Purple", "img": "placeholder" },
+    { "name": "Inline Black/Red", "img": "placeholder" },
+    { "name": "Inline White/Red", "img": "placeholder" }
+  ]
+}
