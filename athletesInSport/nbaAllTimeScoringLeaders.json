@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "name": "LeBron James", "img": "placeholder" },
+    { "name": "Kareem Abdul-Jabbar", "img": "placeholder" },
+    { "name": "Karl Malone", "img": "placeholder" },
+    { "name": "Kobe Bryant", "img": "placeholder" },
+    { "name": "Michael Jordan", "img": "placeholder" },
+    { "name": "Dirk Nowitzki", "img": "placeholder" },
+    { "name": "Wilt Chamberlain", "img": "placeholder" },
+    { "name": "Shaquille O'Neal", "img": "placeholder" },
+    { "name": "Carmelo Anthony", "img": "placeholder" },
+    { "name": "Moses Malone", "img": "placeholder" },
+    { "name": "Elvin Hayes", "img": "placeholder" },
+    { "name": "Hakeem Olajuwon", "img": "placeholder" },
+    { "name": "Kevin Durant", "img": "placeholder" },
+    { "name": "Oscar Robertson", "img": "placeholder" },
+    { "name": "Dominique Wilkins", "img": "placeholder" },
+    { "name": "Tim Duncan", "img": "placeholder" },
+    { "name": "Paul Pierce", "img": "placeholder" },
+    { "name": "John Havlicek", "img": "placeholder" },
+    { "name": "Kevin Garnett", "img": "placeholder" },
+    { "name": "Vince Carter", "img": "placeholder" },
+    { "name": "Alex English", "img": "placeholder" },
+    { "name": "Reggie Miller", "img": "placeholder" },
+    { "name": "Jerry West", "img": "placeholder" },
+    { "name": "Patrick Ewing", "img": "placeholder" },
+    { "name": "James Harden", "img": "placeholder" }
+  ]
+}
