@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "name": "Margaret Court", "img": "placeholder" },
+    { "name": "Serena Williams", "img": "placeholder" },
+    { "name": "Steffi Graf", "img": "placeholder" },
+    { "name": "Martina Navratilova", "img": "placeholder" },
+    { "name": "Chris Evert", "img": "placeholder" },
+    { "name": "Billie Jean King", "img": "placeholder" },
+    { "name": "Maria Bueno", "img": "placeholder" },
+    { "name": "Suzanne Lenglen", "img": "placeholder" },
+    { "name": "Evonne Goolagong Cawley", "img": "placeholder" },
+    { "name": "Martina Hingis", "img": "placeholder" },
+    { "name": "Justine Henin", "img": "placeholder" },
+    { "name": "Monica Seles", "img": "placeholder" },
+    { "name": "Venus Williams", "img": "placeholder" },
+    { "name": "Lindsay Davenport", "img": "placeholder" },
+    { "name": "Arantxa Sánchez Vicario", "img": "placeholder" },
+    { "name": "Gabriela Sabatini", "img": "placeholder" },
+    { "name": "Hana Mandlikova", "img": "placeholder" },
+    { "name": "Virginia Wade", "img": "placeholder" },
+    { "name": "Nancy Richey", "img": "placeholder" },
+    { "name": "Maureen Connolly", "img": "placeholder" },
+    { "name": "Alice Marble", "img": "placeholder" },
+    { "name": "Althea Gibson", "img": "placeholder" },
+    { "name": "Helen Wills Moody", "img": "placeholder" },
+    { "name": "Doris Hart", "img": "placeholder" },
+    { "name": "Mary Pierce", "img": "placeholder" }
+  ]
+}
