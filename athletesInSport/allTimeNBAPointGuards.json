@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "name": "Magic Johnson", "img": "placeholder" },
+    { "name": "Oscar Robertson", "img": "placeholder" },
+    { "name": "John Stockton", "img": "placeholder" },
+    { "name": "Isiah Thomas", "img": "placeholder" },
+    { "name": "Stephen Curry", "img": "placeholder" },
+    { "name": "Chris Paul", "img": "placeholder" },
+    { "name": "Steve Nash", "img": "placeholder" },
+    { "name": "Jerry West", "img": "placeholder" },
+    { "name": "Jason Kidd", "img": "placeholder" },
+    { "name": "Bob Cousy", "img": "placeholder" },
+    { "name": "Walt Frazier", "img": "placeholder" },
+    { "name": "Gary Payton", "img": "placeholder" },
+    { "name": "Kevin Johnson", "img": "placeholder" },
+    { "name": "Tony Parker", "img": "placeholder" },
+    { "name": "Bob Pettit", "img": "placeholder" },
+    { "name": "Dave Bing", "img": "placeholder" },
+    { "name": "Damian Lillard", "img": "placeholder" },
+    { "name": "Russell Westbrook", "img": "placeholder" },
+    { "name": "Tiny Archibald", "img": "placeholder" },
+    { "name": "Nate Archibald", "img": "placeholder" },
+    { "name": "Derrick Rose", "img": "placeholder" },
+    { "name": "Tim Hardaway", "img": "placeholder" },
+    { "name": "Lenny Wilkens", "img": "placeholder" },
+    { "name": "Chauncey Billups", "img": "placeholder" },
+    { "name": "Rajon Rondo", "img": "placeholder" }
+  ]
+}
