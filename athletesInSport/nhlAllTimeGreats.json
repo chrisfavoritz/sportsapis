@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "name": "Wayne Gretzky", "img": "placeholder" },
+    { "name": "Bobby Orr", "img": "placeholder" },
+    { "name": "Mario Lemieux", "img": "placeholder" },
+    { "name": "Gordie Howe", "img": "placeholder" },
+    { "name": "Sidney Crosby", "img": "placeholder" },
+    { "name": "Maurice Richard", "img": "placeholder" },
+    { "name": "Mark Messier", "img": "placeholder" },
+    { "name": "Jean Béliveau", "img": "placeholder" },
+    { "name": "Nicklas Lidström", "img": "placeholder" },
+    { "name": "Jaromir Jagr", "img": "placeholder" },
+    { "name": "Bobby Hull", "img": "placeholder" },
+    { "name": "Phil Esposito", "img": "placeholder" },
+    { "name": "Doug Harvey", "img": "placeholder" },
+    { "name": "Ray Bourque", "img": "placeholder" },
+    { "name": "Denis Potvin", "img": "placeholder" },
+    { "name": "Larry Robinson", "img": "placeholder" },
+    { "name": "Patrick Roy", "img": "placeholder" },
+    { "name": "Scott Niedermayer", "img": "placeholder" },
+    { "name": "Steve Yzerman", "img": "placeholder" },
+    { "name": "Paul Coffey", "img": "placeholder" },
+    { "name": "Dominik Hašek", "img": "placeholder" },
+    { "name": "Joe Sakic", "img": "placeholder" },
+    { "name": "Brett Hull", "img": "placeholder" },
+    { "name": "Eddie Shore", "img": "placeholder" },
+    { "name": "Martin Brodeur", "img": "placeholder" }
+  ]
+}
