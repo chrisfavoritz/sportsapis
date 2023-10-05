@@ -1,0 +1,20 @@
+{
+  "items": [
+    { "name": "Mary Pierce", "img": "placeholder" },
+    { "name": "Jennifer Capriati", "img": "placeholder" },
+    { "name": "Serena Williams", "img": "placeholder" },
+    { "name": "Justine Henin", "img": "placeholder" },
+    { "name": "Anastasia Myskina", "img": "placeholder" },
+    { "name": "Ana Ivanovic", "img": "placeholder" },
+    { "name": "Svetlana Kuznetsova", "img": "placeholder" },
+    { "name": "Francesca Schiavone", "img": "placeholder" },
+    { "name": "Li Na", "img": "placeholder" },
+    { "name": "Maria Sharapova", "img": "placeholder" },
+    { "name": "Garbiñe Muguruza", "img": "placeholder" },
+    { "name": "Jeļena Ostapenko", "img": "placeholder" },
+    { "name": "Simona Halep", "img": "placeholder" },
+    { "name": "Ashleigh Barty", "img": "placeholder" },
+    { "name": "Iga Świątek", "img": "placeholder" },
+    { "name": "Barbora Krejcikova", "img": "placeholder" }
+  ]
+}
