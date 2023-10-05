@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "name": "Derek Jeter", "img": "placeholder" },
+    { "name": "Albert Pujols", "img": "placeholder" },
+    { "name": "Alex Rodriguez", "img": "placeholder" },
+    { "name": "Ichiro Suzuki", "img": "placeholder" },
+    { "name": "Chipper Jones", "img": "placeholder" },
+    { "name": "Roy Halladay", "img": "placeholder" },
+    { "name": "Mariano Rivera", "img": "placeholder" },
+    { "name": "Johan Santana", "img": "placeholder" },
+    { "name": "Manny Ramirez", "img": "placeholder" },
+    { "name": "David Ortiz", "img": "placeholder" },
+    { "name": "Tim Lincecum", "img": "placeholder" },
+    { "name": "Randy Johnson", "img": "placeholder" },
+    { "name": "Pedro Martinez", "img": "placeholder" },
+    { "name": "Vladimir Guerrero", "img": "placeholder" },
+    { "name": "Roy Oswalt", "img": "placeholder" },
+    { "name": "Mark Teixeira", "img": "placeholder" },
+    { "name": "Miguel Cabrera", "img": "placeholder" },
+    { "name": "Josh Hamilton", "img": "placeholder" },
+    { "name": "Jim Thome", "img": "placeholder" },
+    { "name": "Justin Verlander", "img": "placeholder" },
+    { "name": "Ryan Howard", "img": "placeholder" },
+    { "name": "Barry Bonds", "img": "placeholder" },
+    { "name": "Todd Helton", "img": "placeholder" },
+    { "name": "Chase Utley", "img": "placeholder" },
+    { "name": "Ryan Braun", "img": "placeholder" }
+  ]
+}
