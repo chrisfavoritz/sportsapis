@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "name": "Tommy Armour", "img": "placeholder" },
+    { "name": "Seve Ballesteros", "img": "placeholder" },
+    { "name": "Billy Casper", "img": "placeholder" },
+    { "name": "Ben Crenshaw", "img": "placeholder" },
+    { "name": "Ernie Els", "img": "placeholder" },
+    { "name": "Raymond Floyd", "img": "placeholder" },
+    { "name": "Jim Furyk", "img": "placeholder" },
+    { "name": "Sergio García", "img": "placeholder" },
+    { "name": "Retief Goosen", "img": "placeholder" },
+    { "name": "Padraig Harrington", "img": "placeholder" },
+    { "name": "Hale Irwin", "img": "placeholder" },
+    { "name": "Dustin Johnson", "img": "placeholder" },
+    { "name": "Davis Love III", "img": "placeholder" },
+    { "name": "Rory McIlroy", "img": "placeholder" },
+    { "name": "Mark O'Meara", "img": "placeholder" },
+    { "name": "Greg Norman", "img": "placeholder" },
+    { "name": "José María Olazábal", "img": "placeholder" },
+    { "name": "Phil Mickelson", "img": "placeholder" },
+    { "name": "Vijay Singh", "img": "placeholder" },
+    { "name": "Jordan Spieth", "img": "placeholder" },
+    { "name": "Steve Stricker", "img": "placeholder" },
+    { "name": "Justin Thomas", "img": "placeholder" },
+    { "name": "Tom Watson", "img": "placeholder" },
+    { "name": "Tiger Woods", "img": "placeholder" },
+    { "name": "Ian Woosnam", "img": "placeholder" }
+  ]
+}
