@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "name": "Bobby Orr", "img": "placeholder" },
+    { "name": "Ray Bourque", "img": "placeholder" },
+    { "name": "Nicklas Lidström", "img": "placeholder" },
+    { "name": "Doug Harvey", "img": "placeholder" },
+    { "name": "Larry Robinson", "img": "placeholder" },
+    { "name": "Paul Coffey", "img": "placeholder" },
+    { "name": "Denis Potvin", "img": "placeholder" },
+    { "name": "Scott Niedermayer", "img": "placeholder" },
+    { "name": "Al MacInnis", "img": "placeholder" },
+    { "name": "Chris Pronger", "img": "placeholder" },
+    { "name": "Eddie Shore", "img": "placeholder" },
+    { "name": "Brian Leetch", "img": "placeholder" },
+    { "name": "Borje Salming", "img": "placeholder" },
+    { "name": "Brad Park", "img": "placeholder" },
+    { "name": "Zdeno Chara", "img": "placeholder" },
+    { "name": "Red Kelly", "img": "placeholder" },
+    { "name": "Pierre Pilote", "img": "placeholder" },
+    { "name": "Niklas Kronwall", "img": "placeholder" },
+    { "name": "Tim Horton", "img": "placeholder" },
+    { "name": "Rod Langway", "img": "placeholder" },
+    { "name": "Shea Weber", "img": "placeholder" },
+    { "name": "Scott Stevens", "img": "placeholder" },
+    { "name": "Chris Chelios", "img": "placeholder" },
+    { "name": "Viacheslav Fetisov", "img": "placeholder" },
+    { "name": "Mark Howe", "img": "placeholder" }
+  ]
+}
