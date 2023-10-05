@@ -1,0 +1,31 @@
+{
+  "items": [
+    { "name": "Stephen Curry", "img": "placeholder" },
+    { "name": "Luka Dončić", "img": "placeholder" },
+    { "name": "Nikola Jokić", "img": "placeholder" },
+    { "name": "LeBron James", "img": "placeholder" },
+    { "name": "Zion Williamson", "img": "placeholder" },
+    { "name": "Shai Gilgeous-Alexander", "img": "placeholder" },
+    { "name": "Damian Lillard", "img": "placeholder" },
+    { "name": "Ja Morant", "img": "placeholder" },
+    { "name": "Paul George", "img": "placeholder" },
+    { "name": "Jaren Jackson Jr.", "img": "placeholder" },
+    { "name": "Lauri Markkanen", "img": "placeholder" },
+    { "name": "Domantas Sabonis", "img": "placeholder" },
+    { "name": "Anthony Edwards", "img": "placeholder" },
+    { "name": "De'Aaron Fox", "img": "placeholder" },
+    { "name": "Kyrie Irving", "img": "placeholder" },
+    { "name": "Donovan Mitchell", "img": "placeholder" },
+    { "name": "Giannis Antetokounmpo", "img": "placeholder" },
+    { "name": "Kevin Durant", "img": "placeholder" },
+    { "name": "Jayson Tatum", "img": "placeholder" },
+    { "name": "Jaylen Brown", "img": "placeholder" },
+    { "name": "DeMar DeRozan", "img": "placeholder" },
+    { "name": "Tyrese Haliburton", "img": "placeholder" },
+    { "name": "Jrue Holiday", "img": "placeholder" },
+    { "name": "Julius Randle", "img": "placeholder" },
+    { "name": "Bam Adebayo", "img": "placeholder" },
+    { "name": "Joel Embiid", "img": "placeholder" },
+    { "name": "Pascal Siakam", "img": "placeholder" }
+  ]
+}
