@@ -1,0 +1,14 @@
+{
+  "items": [
+    { "name": "Tiger Woods", "img": "placeholder" },
+    { "name": "Rory McIlroy", "img": "placeholder" },
+    { "name": "Jordan Spieth", "img": "placeholder" },
+    { "name": "Dustin Johnson", "img": "placeholder" },
+    { "name": "Brooks Koepka", "img": "placeholder" },
+    { "name": "Justin Thomas", "img": "placeholder" },
+    { "name": "Jason Day", "img": "placeholder" },
+    { "name": "Adam Scott", "img": "placeholder" },
+    { "name": "Phil Mickelson", "img": "placeholder" },
+    { "name": "Henrik Stenson", "img": "placeholder" }
+  ]
+}
