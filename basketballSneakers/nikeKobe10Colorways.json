@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "name": "5 AM Flight", "img": "placeholder" },
+    { "name": "All-Star", "img": "placeholder" },
+    { "name": "Blackout", "img": "placeholder" },
+    { "name": "Blue Lagoon", "img": "placeholder" },
+    { "name": "Bright Crimson", "img": "placeholder" },
+    { "name": "Easter", "img": "placeholder" },
+    { "name": "Elite Rose Gold", "img": "placeholder" },
+    { "name": "Elite Team", "img": "placeholder" },
+    { "name": "Fundamentals", "img": "placeholder" },
+    { "name": "Green Vino", "img": "placeholder" },
+    { "name": "Hero", "img": "placeholder" },
+    { "name": "High Dive", "img": "placeholder" },
+    { "name": "Independence Day", "img": "placeholder" },
+    { "name": "Lower Merion Aces", "img": "placeholder" },
+    { "name": "Majors", "img": "placeholder" },
+    { "name": "Peach Jam", "img": "placeholder" },
+    { "name": "Peach Jam EYBL", "img": "placeholder" },
+    { "name": "Pain", "img": "placeholder" },
+    { "name": "Purple Silk", "img": "placeholder" },
+    { "name": "Rivalry", "img": "placeholder" },
+    { "name": "Rose Gold", "img": "placeholder" },
+    { "name": "Silk Road", "img": "placeholder" },
+    { "name": "Team", "img": "placeholder" },
+    { "name": "Vino", "img": "placeholder" },
+    { "name": "Wolf Grey", "img": "placeholder" }
+  ]
+}
