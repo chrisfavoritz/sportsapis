@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "name": "Sidney Crosby", "img": "placeholder" },
+    { "name": "Alexander Ovechkin", "img": "placeholder" },
+    { "name": "Jaromir Jagr", "img": "placeholder" },
+    { "name": "Joe Sakic", "img": "placeholder" },
+    { "name": "Nicklas Lidström", "img": "placeholder" },
+    { "name": "Martin Brodeur", "img": "placeholder" },
+    { "name": "Pavel Datsyuk", "img": "placeholder" },
+    { "name": "Martin St. Louis", "img": "placeholder" },
+    { "name": "Evgeni Malkin", "img": "placeholder" },
+    { "name": "Chris Pronger", "img": "placeholder" },
+    { "name": "Vincent Lecavalier", "img": "placeholder" },
+    { "name": "Ilya Kovalchuk", "img": "placeholder" },
+    { "name": "Zdeno Chara", "img": "placeholder" },
+    { "name": "Henrik Zetterberg", "img": "placeholder" },
+    { "name": "Jarome Iginla", "img": "placeholder" },
+    { "name": "Roberto Luongo", "img": "placeholder" },
+    { "name": "Daniel Sedin", "img": "placeholder" },
+    { "name": "Henrik Sedin", "img": "placeholder" },
+    { "name": "Teemu Selänne", "img": "placeholder" },
+    { "name": "Marian Hossa", "img": "placeholder" },
+    { "name": "Scott Niedermayer", "img": "placeholder" },
+    { "name": "Ryan Getzlaf", "img": "placeholder" },
+    { "name": "Corey Perry", "img": "placeholder" },
+    { "name": "Marian Gaborik", "img": "placeholder" },
+    { "name": "Brian Rafalski", "img": "placeholder" }
+  ]
+}
