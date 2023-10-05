@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "name": "Mike Schmidt", "img": "placeholder" },
+    { "name": "Brooks Robinson", "img": "placeholder" },
+    { "name": "George Brett", "img": "placeholder" },
+    { "name": "Eddie Mathews", "img": "placeholder" },
+    { "name": "Chipper Jones", "img": "placeholder" },
+    { "name": "Wade Boggs", "img": "placeholder" },
+    { "name": "Ron Santo", "img": "placeholder" },
+    { "name": "Harmon Killebrew", "img": "placeholder" },
+    { "name": "Adrian Beltre", "img": "placeholder" },
+    { "name": "Paul Molitor", "img": "placeholder" },
+    { "name": "Scott Rolen", "img": "placeholder" },
+    { "name": "Paul Waner", "img": "placeholder" },
+    { "name": "Ken Boyer", "img": "placeholder" },
+    { "name": "Frank \"Home Run\" Baker", "img": "placeholder" },
+    { "name": "David Wright", "img": "placeholder" },
+    { "name": "Graig Nettles", "img": "placeholder" },
+    { "name": "Pie Traynor", "img": "placeholder" },
+    { "name": "Jimmy Collins", "img": "placeholder" },
+    { "name": "Darrell Evans", "img": "placeholder" },
+    { "name": "Buddy Bell", "img": "placeholder" },
+    { "name": "Clete Boyer", "img": "placeholder" },
+    { "name": "Sal Bando", "img": "placeholder" },
+    { "name": "Ron Cey", "img": "placeholder" },
+    { "name": "Toby Harrah", "img": "placeholder" },
+    { "name": "Matt Williams", "img": "placeholder" }
+  ]
+}
