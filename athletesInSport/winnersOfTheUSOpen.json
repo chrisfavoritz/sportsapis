@@ -1,0 +1,22 @@
+{
+  "items": [
+    { "name": "Tiger Woods", "img": "placeholder" },
+    { "name": "Retief Goosen", "img": "placeholder" },
+    { "name": "Jim Furyk", "img": "placeholder" },
+    { "name": "Michael Campbell", "img": "placeholder" },
+    { "name": "Geoff Ogilvy", "img": "placeholder" },
+    { "name": "Ángel Cabrera", "img": "placeholder" },
+    { "name": "Lucas Glover", "img": "placeholder" },
+    { "name": "Graeme McDowell", "img": "placeholder" },
+    { "name": "Rory McIlroy", "img": "placeholder" },
+    { "name": "Webb Simpson", "img": "placeholder" },
+    { "name": "Justin Rose", "img": "placeholder" },
+    { "name": "Martin Kaymer", "img": "placeholder" },
+    { "name": "Jordan Spieth", "img": "placeholder" },
+    { "name": "Dustin Johnson", "img": "placeholder" },
+    { "name": "Brooks Koepka", "img": "placeholder" },
+    { "name": "Gary Woodland", "img": "placeholder" },
+    { "name": "Bryson DeChambeau", "img": "placeholder" },
+    { "name": "Jon Rahm", "img": "placeholder" }
+  ]
+}
