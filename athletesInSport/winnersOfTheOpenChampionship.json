@@ -1,0 +1,21 @@
+{
+  "items": [
+    { "name": "Tiger Woods", "img": "placeholder" },
+    { "name": "David Duval", "img": "placeholder" },
+    { "name": "Ernie Els", "img": "placeholder" },
+    { "name": "Ben Curtis", "img": "placeholder" },
+    { "name": "Todd Hamilton", "img": "placeholder" },
+    { "name": "Pádraig Harrington", "img": "placeholder" },
+    { "name": "Stewart Cink", "img": "placeholder" },
+    { "name": "Louis Oosthuizen", "img": "placeholder" },
+    { "name": "Darren Clarke", "img": "placeholder" },
+    { "name": "Phil Mickelson", "img": "placeholder" },
+    { "name": "Rory McIlroy", "img": "placeholder" },
+    { "name": "Zach Johnson", "img": "placeholder" },
+    { "name": "Henrik Stenson", "img": "placeholder" },
+    { "name": "Jordan Spieth", "img": "placeholder" },
+    { "name": "Francesco Molinari", "img": "placeholder" },
+    { "name": "Shane Lowry", "img": "placeholder" },
+    { "name": "Collin Morikawa", "img": "placeholder" }
+  ]
+}
