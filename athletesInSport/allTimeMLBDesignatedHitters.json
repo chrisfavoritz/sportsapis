@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "name": "Edgar Martinez", "img": "placeholder" },
+    { "name": "David Ortiz", "img": "placeholder" },
+    { "name": "Frank Thomas", "img": "placeholder" },
+    { "name": "Harold Baines", "img": "placeholder" },
+    { "name": "Paul Molitor", "img": "placeholder" },
+    { "name": "Jim Thome", "img": "placeholder" },
+    { "name": "Chili Davis", "img": "placeholder" },
+    { "name": "Don Baylor", "img": "placeholder" },
+    { "name": "Hal McRae", "img": "placeholder" },
+    { "name": "Victor Martinez", "img": "placeholder" },
+    { "name": "Dave Parker", "img": "placeholder" },
+    { "name": "Travis Hafner", "img": "placeholder" },
+    { "name": "Nelson Cruz", "img": "placeholder" },
+    { "name": "Kendrys Morales", "img": "placeholder" },
+    { "name": "Jose Canseco", "img": "placeholder" },
+    { "name": "Cecil Fielder", "img": "placeholder" },
+    { "name": "Brian Downing", "img": "placeholder" },
+    { "name": "Eddie Murray", "img": "placeholder" },
+    { "name": "Jason Giambi", "img": "placeholder" },
+    { "name": "Mike Easler", "img": "placeholder" },
+    { "name": "Cliff Johnson", "img": "placeholder" },
+    { "name": "Dave Kingman", "img": "placeholder" },
+    { "name": "Ron Blomberg", "img": "placeholder" },
+    { "name": "John Olerud", "img": "placeholder" },
+    { "name": "Greg Luzinski", "img": "placeholder" }
+  ]
+}
