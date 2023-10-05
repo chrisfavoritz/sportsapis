@@ -1,0 +1,11 @@
+{
+  "items": [
+    { "name": "Andre Agassi", "img": "placeholder" },
+    { "name": "Thomas Johansson", "img": "placeholder" },
+    { "name": "Roger Federer", "img": "placeholder" },
+    { "name": "Marat Safin", "img": "placeholder" },
+    { "name": "Novak Djokovic", "img": "placeholder" },
+    { "name": "Rafael Nadal", "img": "placeholder" },
+    { "name": "Stan Wawrinka", "img": "placeholder" }
+  ]
+}
