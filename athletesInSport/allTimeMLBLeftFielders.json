@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "name": "Ted Williams", "img": "placeholder" },
+    { "name": "Barry Bonds", "img": "placeholder" },
+    { "name": "Stan Musial", "img": "placeholder" },
+    { "name": "Rickey Henderson", "img": "placeholder" },
+    { "name": "Carl Yastrzemski", "img": "placeholder" },
+    { "name": "Willie Stargell", "img": "placeholder" },
+    { "name": "Lou Brock", "img": "placeholder" },
+    { "name": "Al Simmons", "img": "placeholder" },
+    { "name": "Joe Medwick", "img": "placeholder" },
+    { "name": "Frank Robinson", "img": "placeholder" },
+    { "name": "Billy Williams", "img": "placeholder" },
+    { "name": "Goose Goslin", "img": "placeholder" },
+    { "name": "Zack Wheat", "img": "placeholder" },
+    { "name": "Charlie Keller", "img": "placeholder" },
+    { "name": "Minnie Minoso", "img": "placeholder" },
+    { "name": "Tim Raines", "img": "placeholder" },
+    { "name": "Ralph Kiner", "img": "placeholder" },
+    { "name": "Fred Clarke", "img": "placeholder" },
+    { "name": "Jim Rice", "img": "placeholder" },
+    { "name": "George Foster", "img": "placeholder" },
+    { "name": "Shoeless Joe Jackson", "img": "placeholder" },
+    { "name": "Luis Gonzalez", "img": "placeholder" },
+    { "name": "Lou Whitaker", "img": "placeholder" },
+    { "name": "George \"High Pockets\" Kelly", "img": "placeholder" },
+    { "name": "Bob Johnson", "img": "placeholder" }
+  ]
+}
