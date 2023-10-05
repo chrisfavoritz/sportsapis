@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "name": "Johnny Bench", "img": "placeholder" },
+    { "name": "Yogi Berra", "img": "placeholder" },
+    { "name": "Roy Campanella", "img": "placeholder" },
+    { "name": "Mike Piazza", "img": "placeholder" },
+    { "name": "Carlton Fisk", "img": "placeholder" },
+    { "name": "Gary Carter", "img": "placeholder" },
+    { "name": "Ivan Rodriguez", "img": "placeholder" },
+    { "name": "Bill Dickey", "img": "placeholder" },
+    { "name": "Johnny Kling", "img": "placeholder" },
+    { "name": "Mickey Cochrane", "img": "placeholder" },
+    { "name": "Ernie Lombardi", "img": "placeholder" },
+    { "name": "Thurman Munson", "img": "placeholder" },
+    { "name": "Ted Simmons", "img": "placeholder" },
+    { "name": "Gabby Hartnett", "img": "placeholder" },
+    { "name": "Jorge Posada", "img": "placeholder" },
+    { "name": "Joe Mauer", "img": "placeholder" },
+    { "name": "Buster Posey", "img": "placeholder" },
+    { "name": "Yadier Molina", "img": "placeholder" },
+    { "name": "Elston Howard", "img": "placeholder" },
+    { "name": "Jason Kendall", "img": "placeholder" },
+    { "name": "Smoky Burgess", "img": "placeholder" },
+    { "name": "Carlton Willey", "img": "placeholder" },
+    { "name": "Joe Torre", "img": "placeholder" },
+    { "name": "Terry Steinbach", "img": "placeholder" },
+    { "name": "Darrell Porter", "img": "placeholder" }
+  ]
+}
