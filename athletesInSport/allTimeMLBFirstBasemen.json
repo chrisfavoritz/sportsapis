@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "name": "Lou Gehrig", "img": "placeholder" },
+    { "name": "Albert Pujols", "img": "placeholder" },
+    { "name": "Willie McCovey", "img": "placeholder" },
+    { "name": "Jimmie Foxx", "img": "placeholder" },
+    { "name": "Stan Musial", "img": "placeholder" },
+    { "name": "Hank Greenberg", "img": "placeholder" },
+    { "name": "Frank Thomas", "img": "placeholder" },
+    { "name": "Eddie Murray", "img": "placeholder" },
+    { "name": "Jeff Bagwell", "img": "placeholder" },
+    { "name": "Harmon Killebrew", "img": "placeholder" },
+    { "name": "Mark McGwire", "img": "placeholder" },
+    { "name": "George Sisler", "img": "placeholder" },
+    { "name": "Johnny Mize", "img": "placeholder" },
+    { "name": "Keith Hernandez", "img": "placeholder" },
+    { "name": "Orlando Cepeda", "img": "placeholder" },
+    { "name": "Todd Helton", "img": "placeholder" },
+    { "name": "Tony Perez", "img": "placeholder" },
+    { "name": "Jason Giambi", "img": "placeholder" },
+    { "name": "Gil Hodges", "img": "placeholder" },
+    { "name": "Adrian Gonzalez", "img": "placeholder" },
+    { "name": "Don Mattingly", "img": "placeholder" },
+    { "name": "Will Clark", "img": "placeholder" },
+    { "name": "Fred McGriff", "img": "placeholder" },
+    { "name": "Cecil Fielder", "img": "placeholder" },
+    { "name": "Rafael Palmeiro", "img": "placeholder" }
+  ]
+}
