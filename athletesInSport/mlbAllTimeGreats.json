@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "name": "Babe Ruth", "img": "placeholder" },
+    { "name": "Willie Mays", "img": "placeholder" },
+    { "name": "Hank Aaron", "img": "placeholder" },
+    { "name": "Ty Cobb", "img": "placeholder" },
+    { "name": "Mickey Mantle", "img": "placeholder" },
+    { "name": "Ted Williams", "img": "placeholder" },
+    { "name": "Lou Gehrig", "img": "placeholder" },
+    { "name": "Barry Bonds", "img": "placeholder" },
+    { "name": "Stan Musial", "img": "placeholder" },
+    { "name": "Joe DiMaggio", "img": "placeholder" },
+    { "name": "Cy Young", "img": "placeholder" },
+    { "name": "Jackie Robinson", "img": "placeholder" },
+    { "name": "Bob Gibson", "img": "placeholder" },
+    { "name": "Roberto Clemente", "img": "placeholder" },
+    { "name": "Sandy Koufax", "img": "placeholder" },
+    { "name": "Rogers Hornsby", "img": "placeholder" },
+    { "name": "Honus Wagner", "img": "placeholder" },
+    { "name": "Walter Johnson", "img": "placeholder" },
+    { "name": "Mike Schmidt", "img": "placeholder" },
+    { "name": "Ken Griffey Jr.", "img": "placeholder" },
+    { "name": "Derek Jeter", "img": "placeholder" },
+    { "name": "Albert Pujols", "img": "placeholder" },
+    { "name": "Nolan Ryan", "img": "placeholder" },
+    { "name": "Greg Maddux", "img": "placeholder" },
+    { "name": "Cal Ripken Jr.", "img": "placeholder" }
+  ]
+}
