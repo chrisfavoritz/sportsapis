@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "name": "Barry Bonds", "img": "placeholder" },
+    { "name": "Ken Griffey Jr.", "img": "placeholder" },
+    { "name": "Greg Maddux", "img": "placeholder" },
+    { "name": "Frank Thomas", "img": "placeholder" },
+    { "name": "Randy Johnson", "img": "placeholder" },
+    { "name": "Pedro Martinez", "img": "placeholder" },
+    { "name": "Cal Ripken Jr.", "img": "placeholder" },
+    { "name": "Mark McGwire", "img": "placeholder" },
+    { "name": "Sammy Sosa", "img": "placeholder" },
+    { "name": "Roger Clemens", "img": "placeholder" },
+    { "name": "Mike Piazza", "img": "placeholder" },
+    { "name": "Jeff Bagwell", "img": "placeholder" },
+    { "name": "Larry Walker", "img": "placeholder" },
+    { "name": "Tom Glavine", "img": "placeholder" },
+    { "name": "Derek Jeter", "img": "placeholder" },
+    { "name": "Chipper Jones", "img": "placeholder" },
+    { "name": "Albert Belle", "img": "placeholder" },
+    { "name": "Tony Gwynn", "img": "placeholder" },
+    { "name": "Edgar Martinez", "img": "placeholder" },
+    { "name": "John Smoltz", "img": "placeholder" },
+    { "name": "Nomar Garciaparra", "img": "placeholder" },
+    { "name": "Mariano Rivera", "img": "placeholder" },
+    { "name": "Bernie Williams", "img": "placeholder" },
+    { "name": "Curt Schilling", "img": "placeholder" },
+    { "name": "Ivan Rodriguez", "img": "placeholder" }
+  ]
+}
