@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "name": "Novak Djokovic", "img": "placeholder" },
+    { "name": "Rafael Nadal", "img": "placeholder" },
+    { "name": "Roger Federer", "img": "placeholder" },
+    { "name": "Andy Murray", "img": "placeholder" },
+    { "name": "Stan Wawrinka", "img": "placeholder" },
+    { "name": "Marin Cilic", "img": "placeholder" },
+    { "name": "Dominic Thiem", "img": "placeholder" },
+    { "name": "Juan Martin del Potro", "img": "placeholder" },
+    { "name": "Milos Raonic", "img": "placeholder" },
+    { "name": "Kei Nishikori", "img": "placeholder" },
+    { "name": "Alexander Zverev", "img": "placeholder" },
+    { "name": "Grigor Dimitrov", "img": "placeholder" },
+    { "name": "Jo-Wilfried Tsonga", "img": "placeholder" },
+    { "name": "David Ferrer", "img": "placeholder" },
+    { "name": "Tomas Berdych", "img": "placeholder" },
+    { "name": "Gael Monfils", "img": "placeholder" },
+    { "name": "Nick Kyrgios", "img": "placeholder" },
+    { "name": "John Isner", "img": "placeholder" },
+    { "name": "Kevin Anderson", "img": "placeholder" },
+    { "name": "Fabio Fognini", "img": "placeholder" },
+    { "name": "Roberto Bautista Agut", "img": "placeholder" },
+    { "name": "Richard Gasquet", "img": "placeholder" },
+    { "name": "David Goffin", "img": "placeholder" },
+    { "name": "Pablo Carreño Busta", "img": "placeholder" },
+    { "name": "Borna Coric", "img": "placeholder" }
+  ]
+}
