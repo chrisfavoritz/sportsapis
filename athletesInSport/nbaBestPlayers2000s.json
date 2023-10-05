@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "name": "Kobe Bryant", "img": "placeholder" },
+    { "name": "Tim Duncan", "img": "placeholder" },
+    { "name": "Shaquille O'Neal", "img": "placeholder" },
+    { "name": "LeBron James", "img": "placeholder" },
+    { "name": "Kevin Garnett", "img": "placeholder" },
+    { "name": "Allen Iverson", "img": "placeholder" },
+    { "name": "Dirk Nowitzki", "img": "placeholder" },
+    { "name": "Dwyane Wade", "img": "placeholder" },
+    { "name": "Steve Nash", "img": "placeholder" },
+    { "name": "Chris Paul", "img": "placeholder" },
+    { "name": "Kevin Durant", "img": "placeholder" },
+    { "name": "Tracy McGrady", "img": "placeholder" },
+    { "name": "Yao Ming", "img": "placeholder" },
+    { "name": "Paul Pierce", "img": "placeholder" },
+    { "name": "Vince Carter", "img": "placeholder" },
+    { "name": "Dwight Howard", "img": "placeholder" },
+    { "name": "Ray Allen", "img": "placeholder" },
+    { "name": "Pau Gasol", "img": "placeholder" },
+    { "name": "Manu Ginóbili", "img": "placeholder" },
+    { "name": "Chris Bosh", "img": "placeholder" },
+    { "name": "Carmelo Anthony", "img": "placeholder" },
+    { "name": "Tony Parker", "img": "placeholder" },
+    { "name": "Chauncey Billups", "img": "placeholder" },
+    { "name": "Ben Wallace", "img": "placeholder" },
+    { "name": "Joe Johnson", "img": "placeholder" }
+  ]
+}
