@@ -1,0 +1,14 @@
+{
+  "items": [
+    { "name": "Tiger Woods", "img": "placeholder" },
+    { "name": "Greg Norman", "img": "placeholder" },
+    { "name": "Nick Price", "img": "placeholder" },
+    { "name": "Fred Couples", "img": "placeholder" },
+    { "name": "Nick Faldo", "img": "placeholder" },
+    { "name": "Ernie Els", "img": "placeholder" },
+    { "name": "Tom Lehman", "img": "placeholder" },
+    { "name": "Vijay Singh", "img": "placeholder" },
+    { "name": "Corey Pavin", "img": "placeholder" },
+    { "name": "Payne Stewart", "img": "placeholder" }
+  ]
+}
