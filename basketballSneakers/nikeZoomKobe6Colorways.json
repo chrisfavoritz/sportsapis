@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "name": "Grinch", "img": "placeholder" },
+    { "name": "All-Star", "img": "placeholder" },
+    { "name": "Del Sol", "img": "placeholder" },
+    { "name": "Lower Merion Aces", "img": "placeholder" },
+    { "name": "Barcelona", "img": "placeholder" },
+    { "name": "China", "img": "placeholder" },
+    { "name": "Dark Knight", "img": "placeholder" },
+    { "name": "Prelude Pack (multiple colorways)", "img": "placeholder" },
+    { "name": "Rice", "img": "placeholder" },
+    { "name": "Imperial Purple", "img": "placeholder" },
+    { "name": "Invisibility Cloak", "img": "placeholder" },
+    { "name": "Lakers Home", "img": "placeholder" },
+    { "name": "Lakers Away", "img": "placeholder" },
+    { "name": "3D", "img": "placeholder" },
+    { "name": "Glass Blue", "img": "placeholder" },
+    { "name": "White/Court Purple", "img": "placeholder" },
+    { "name": "Comet Red", "img": "placeholder" },
+    { "name": "Draft Day", "img": "placeholder" },
+    { "name": "Black Mamba", "img": "placeholder" },
+    { "name": "All-Star East", "img": "placeholder" },
+    { "name": "All-Star West", "img": "placeholder" },
+    { "name": "Hollywood", "img": "placeholder" },
+    { "name": "Green Apple", "img": "placeholder" },
+    { "name": "Orange County", "img": "placeholder" },
+    { "name": "Lakers Gradient", "img": "placeholder" }
+  ]
+}
