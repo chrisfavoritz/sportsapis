@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "name": "Martin Brodeur", "img": "placeholder" },
+    { "name": "Patrick Roy", "img": "placeholder" },
+    { "name": "Dominik Hašek", "img": "placeholder" },
+    { "name": "Jacques Plante", "img": "placeholder" },
+    { "name": "Terry Sawchuk", "img": "placeholder" },
+    { "name": "Ken Dryden", "img": "placeholder" },
+    { "name": "Glenn Hall", "img": "placeholder" },
+    { "name": "Vladislav Tretiak", "img": "placeholder" },
+    { "name": "Billy Smith", "img": "placeholder" },
+    { "name": "Bernie Parent", "img": "placeholder" },
+    { "name": "Grant Fuhr", "img": "placeholder" },
+    { "name": "Tony Esposito", "img": "placeholder" },
+    { "name": "Ed Belfour", "img": "placeholder" },
+    { "name": "Johnny Bower", "img": "placeholder" },
+    { "name": "Turk Broda", "img": "placeholder" },
+    { "name": "George Hainsworth", "img": "placeholder" },
+    { "name": "Henrik Lundqvist", "img": "placeholder" },
+    { "name": "Carey Price", "img": "placeholder" },
+    { "name": "Roberto Luongo", "img": "placeholder" },
+    { "name": "Curtis Joseph", "img": "placeholder" },
+    { "name": "Rogie Vachon", "img": "placeholder" },
+    { "name": "Gerry Cheevers", "img": "placeholder" },
+    { "name": "Mike Richter", "img": "placeholder" },
+    { "name": "Jacques Lemaire", "img": "placeholder" },
+    { "name": "Frank Brimsek", "img": "placeholder" }
+  ]
+}
