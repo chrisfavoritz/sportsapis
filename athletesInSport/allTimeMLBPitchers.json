@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "name": "Cy Young", "img": "placeholder" },
+    { "name": "Walter Johnson", "img": "placeholder" },
+    { "name": "Sandy Koufax", "img": "placeholder" },
+    { "name": "Bob Gibson", "img": "placeholder" },
+    { "name": "Lefty Grove", "img": "placeholder" },
+    { "name": "Roger Clemens", "img": "placeholder" },
+    { "name": "Greg Maddux", "img": "placeholder" },
+    { "name": "Pedro Martinez", "img": "placeholder" },
+    { "name": "Christy Mathewson", "img": "placeholder" },
+    { "name": "Tom Seaver", "img": "placeholder" },
+    { "name": "Nolan Ryan", "img": "placeholder" },
+    { "name": "Warren Spahn", "img": "placeholder" },
+    { "name": "Randy Johnson", "img": "placeholder" },
+    { "name": "Steve Carlton", "img": "placeholder" },
+    { "name": "Clayton Kershaw", "img": "placeholder" },
+    { "name": "Tom Glavine", "img": "placeholder" },
+    { "name": "Jim Palmer", "img": "placeholder" },
+    { "name": "Juan Marichal", "img": "placeholder" },
+    { "name": "Whitey Ford", "img": "placeholder" },
+    { "name": "Curt Schilling", "img": "placeholder" },
+    { "name": "Grover Cleveland Alexander", "img": "placeholder" },
+    { "name": "Dennis Eckersley", "img": "placeholder" },
+    { "name": "Mariano Rivera", "img": "placeholder" },
+    { "name": "Roy Halladay", "img": "placeholder" },
+    { "name": "Bob Feller", "img": "placeholder" }
+  ]
+}
