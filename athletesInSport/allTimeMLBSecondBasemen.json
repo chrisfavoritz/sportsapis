@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "name": "Rogers Hornsby", "img": "placeholder" },
+    { "name": "Jackie Robinson", "img": "placeholder" },
+    { "name": "Joe Morgan", "img": "placeholder" },
+    { "name": "Nap Lajoie", "img": "placeholder" },
+    { "name": "Eddie Collins", "img": "placeholder" },
+    { "name": "Roberto Alomar", "img": "placeholder" },
+    { "name": "Rod Carew", "img": "placeholder" },
+    { "name": "Craig Biggio", "img": "placeholder" },
+    { "name": "Ryne Sandberg", "img": "placeholder" },
+    { "name": "Charlie Gehringer", "img": "placeholder" },
+    { "name": "Jeff Kent", "img": "placeholder" },
+    { "name": "Frankie Frisch", "img": "placeholder" },
+    { "name": "Lou Whitaker", "img": "placeholder" },
+    { "name": "Bobby Doerr", "img": "placeholder" },
+    { "name": "Dustin Pedroia", "img": "placeholder" },
+    { "name": "Tony Lazzeri", "img": "placeholder" },
+    { "name": "Billy Herman", "img": "placeholder" },
+    { "name": "Johnny Evers", "img": "placeholder" },
+    { "name": "Chase Utley", "img": "placeholder" },
+    { "name": "Nellie Fox", "img": "placeholder" },
+    { "name": "Davey Lopes", "img": "placeholder" },
+    { "name": "Willie Randolph", "img": "placeholder" },
+    { "name": "Joe Gordon", "img": "placeholder" },
+    { "name": "Bill Mazeroski", "img": "placeholder" },
+    { "name": "Ian Kinsler", "img": "placeholder" }
+  ]
+}
