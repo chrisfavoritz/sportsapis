@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "name": "LeBron James", "img": "placeholder" },
+    { "name": "Larry Bird", "img": "placeholder" },
+    { "name": "Kevin Durant", "img": "placeholder" },
+    { "name": "Scottie Pippen", "img": "placeholder" },
+    { "name": "Julius Erving", "img": "placeholder" },
+    { "name": "Kawhi Leonard", "img": "placeholder" },
+    { "name": "Dominique Wilkins", "img": "placeholder" },
+    { "name": "Paul Pierce", "img": "placeholder" },
+    { "name": "Elgin Baylor", "img": "placeholder" },
+    { "name": "John Havlicek", "img": "placeholder" },
+    { "name": "Rick Barry", "img": "placeholder" },
+    { "name": "James Worthy", "img": "placeholder" },
+    { "name": "George Yardley", "img": "placeholder" },
+    { "name": "Grant Hill", "img": "placeholder" },
+    { "name": "Bernard King", "img": "placeholder" },
+    { "name": "Adrian Dantley", "img": "placeholder" },
+    { "name": "Carmelo Anthony", "img": "placeholder" },
+    { "name": "Chris Webber", "img": "placeholder" },
+    { "name": "Shawn Marion", "img": "placeholder" },
+    { "name": "Giannis Antetokounmpo", "img": "placeholder" },
+    { "name": "Carmelo Anthony", "img": "placeholder" },
+    { "name": "Vince Carter", "img": "placeholder" },
+    { "name": "Tayshaun Prince", "img": "placeholder" },
+    { "name": "Peja Stojaković", "img": "placeholder" },
+    { "name": "Dan Majerle", "img": "placeholder" }
+  ]
+}
