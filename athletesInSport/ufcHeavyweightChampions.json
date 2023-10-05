@@ -1,0 +1,20 @@
+{
+  "items": [
+    { "name": "Mark Coleman", "img": "placeholder" },
+    { "name": "Maurice Smith", "img": "placeholder" },
+    { "name": "Randy Couture", "img": "placeholder" },
+    { "name": "Bas Rutten", "img": "placeholder" },
+    { "name": "Kevin Randleman", "img": "placeholder" },
+    { "name": "Ricco Rodriguez", "img": "placeholder" },
+    { "name": "Tim Sylvia", "img": "placeholder" },
+    { "name": "Frank Mir", "img": "placeholder" },
+    { "name": "Andrei Arlovski", "img": "placeholder" },
+    { "name": "Antonio Rodrigo Nogueira", "img": "placeholder" },
+    { "name": "Brock Lesnar", "img": "placeholder" },
+    { "name": "Cain Velasquez", "img": "placeholder" },
+    { "name": "Junior dos Santos", "img": "placeholder" },
+    { "name": "Fabricio Werdum", "img": "placeholder" },
+    { "name": "Stipe Miocic", "img": "placeholder" },
+    { "name": "Francis Ngannou", "img": "placeholder" }
+  ]
+}
