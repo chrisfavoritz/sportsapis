@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "name": "Thierry Henry", "img": "placeholder" },
+    { "name": "Alan Shearer", "img": "placeholder" },
+    { "name": "Sergio Agüero", "img": "placeholder" },
+    { "name": "Robbie Fowler", "img": "placeholder" },
+    { "name": "Michael Owen", "img": "placeholder" },
+    { "name": "Didier Drogba", "img": "placeholder" },
+    { "name": "Andy Cole", "img": "placeholder" },
+    { "name": "Wayne Rooney", "img": "placeholder" },
+    { "name": "Harry Kane", "img": "placeholder" },
+    { "name": "Dwight Yorke", "img": "placeholder" },
+    { "name": "Ian Wright", "img": "placeholder" },
+    { "name": "Teddy Sheringham", "img": "placeholder" },
+    { "name": "Jimmy Floyd Hasselbaink", "img": "placeholder" },
+    { "name": "Ruud van Nistelrooy", "img": "placeholder" },
+    { "name": "Fernando Torres", "img": "placeholder" },
+    { "name": "Robin van Persie", "img": "placeholder" },
+    { "name": "Jamie Vardy", "img": "placeholder" },
+    { "name": "Ruud Gullit", "img": "placeholder" },
+    { "name": "Dennis Bergkamp", "img": "placeholder" },
+    { "name": "Gianfranco Zola", "img": "placeholder" },
+    { "name": "Luis Suárez", "img": "placeholder" },
+    { "name": "Raul Jimenez", "img": "placeholder" },
+    { "name": "Peter Crouch", "img": "placeholder" },
+    { "name": "Ole Gunnar Solskjaer", "img": "placeholder" },
+    { "name": "Nicolas Anelka", "img": "placeholder" }
+  ]
+}
