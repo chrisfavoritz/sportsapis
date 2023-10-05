@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "name": "Tim Duncan", "img": "placeholder" },
+    { "name": "Karl Malone", "img": "placeholder" },
+    { "name": "Charles Barkley", "img": "placeholder" },
+    { "name": "Dirk Nowitzki", "img": "placeholder" },
+    { "name": "Kevin Garnett", "img": "placeholder" },
+    { "name": "Elvin Hayes", "img": "placeholder" },
+    { "name": "Kevin McHale", "img": "placeholder" },
+    { "name": "Bob Pettit", "img": "placeholder" },
+    { "name": "Chris Webber", "img": "placeholder" },
+    { "name": "Pau Gasol", "img": "placeholder" },
+    { "name": "Dennis Rodman", "img": "placeholder" },
+    { "name": "Dave DeBusschere", "img": "placeholder" },
+    { "name": "Anthony Davis", "img": "placeholder" },
+    { "name": "Blake Griffin", "img": "placeholder" },
+    { "name": "Kevin Love", "img": "placeholder" },
+    { "name": "Amar'e Stoudemire", "img": "placeholder" },
+    { "name": "Shawn Kemp", "img": "placeholder" },
+    { "name": "Tom Heinsohn", "img": "placeholder" },
+    { "name": "Horace Grant", "img": "placeholder" },
+    { "name": "Chris Bosh", "img": "placeholder" },
+    { "name": "Chris Mullin", "img": "placeholder" },
+    { "name": "LaMarcus Aldridge", "img": "placeholder" },
+    { "name": "Derrick Coleman", "img": "placeholder" },
+    { "name": "Paul Millsap", "img": "placeholder" },
+    { "name": "Carlos Boozer", "img": "placeholder" }
+  ]
+}
