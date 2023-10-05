@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "name": "Kareem Abdul-Jabbar", "img": "placeholder" },
+    { "name": "Wilt Chamberlain", "img": "placeholder" },
+    { "name": "Bill Russell", "img": "placeholder" },
+    { "name": "Shaquille O'Neal", "img": "placeholder" },
+    { "name": "Hakeem Olajuwon", "img": "placeholder" },
+    { "name": "Moses Malone", "img": "placeholder" },
+    { "name": "George Mikan", "img": "placeholder" },
+    { "name": "David Robinson", "img": "placeholder" },
+    { "name": "Patrick Ewing", "img": "placeholder" },
+    { "name": "Dwight Howard", "img": "placeholder" },
+    { "name": "Bob Lanier", "img": "placeholder" },
+    { "name": "Bob McAdoo", "img": "placeholder" },
+    { "name": "Yao Ming", "img": "placeholder" },
+    { "name": "Wes Unseld", "img": "placeholder" },
+    { "name": "Willis Reed", "img": "placeholder" },
+    { "name": "Nate Thurmond", "img": "placeholder" },
+    { "name": "Artis Gilmore", "img": "placeholder" },
+    { "name": "Dikembe Mutombo", "img": "placeholder" },
+    { "name": "Bill Walton", "img": "placeholder" },
+    { "name": "Jack Sikma", "img": "placeholder" },
+    { "name": "Ben Wallace", "img": "placeholder" },
+    { "name": "Alonzo Mourning", "img": "placeholder" },
+    { "name": "Arvydas Sabonis", "img": "placeholder" },
+    { "name": "Brad Daugherty", "img": "placeholder" },
+    { "name": "Zydrunas Ilgauskas", "img": "placeholder" }
+  ]
+}
