@@ -1,0 +1,30 @@
+{
+  "items": [
+    { "name": "Black/White-Red", "img": "placeholder" },
+    { "name": "Black/Red", "img": "placeholder" },
+    { "name": "Navy/White", "img": "placeholder" },
+    { "name": "White/Navy", "img": "placeholder" },
+    { "name": "White/Blue", "img": "placeholder" },
+    { "name": "Black/White", "img": "placeholder" },
+    { "name": "All-Star Game", "img": "placeholder" },
+    { "name": "Birthday", "img": "placeholder" },
+    { "name": "Chamber of Fear", "img": "placeholder" },
+    { "name": "Triple Double", "img": "placeholder" },
+    { "name": "Olympic", "img": "placeholder" },
+    { "name": "Low 'Gloria'", "img": "placeholder" },
+    { "name": "Low 'All-Star'", "img": "placeholder" },
+    { "name": "Black/White Retro", "img": "placeholder" },
+    { "name": "Black/Red Retro", "img": "placeholder" },
+    { "name": "Navy/White Retro", "img": "placeholder" },
+    { "name": "White/Navy Retro", "img": "placeholder" },
+    { "name": "Triple Double Retro", "img": "placeholder" },
+    { "name": "Olympic Retro", "img": "placeholder" },
+    { "name": "Chamber of Fear Retro", "img": "placeholder" },
+    { "name": "Birthday Retro", "img": "placeholder" },
+    { "name": "SVSM PE (St. Vincent-St. Mary)", "img": "placeholder" },
+    { "name": "Fairfax PE", "img": "placeholder" },
+    { "name": "Yankees PE", "img": "placeholder" },
+    { "name": "Triple Double PE", "img": "placeholder" },
+    { "name": "All-Star PE", "img": "placeholder" }
+  ]
+}
