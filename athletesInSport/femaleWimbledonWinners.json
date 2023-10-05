@@ -1,0 +1,14 @@
+{
+  "items": [
+    { "name": "Venus Williams", "img": "placeholder" },
+    { "name": "Serena Williams", "img": "placeholder" },
+    { "name": "Maria Sharapova", "img": "placeholder" },
+    { "name": "Amélie Mauresmo", "img": "placeholder" },
+    { "name": "Petra Kvitová", "img": "placeholder" },
+    { "name": "Marion Bartoli", "img": "placeholder" },
+    { "name": "Garbiñe Muguruza", "img": "placeholder" },
+    { "name": "Angelique Kerber", "img": "placeholder" },
+    { "name": "Simona Halep", "img": "placeholder" },
+    { "name": "Ashleigh Barty", "img": "placeholder" }
+  ]
+}
