@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "name": "Alan Shearer", "img": "placeholder" },
+    { "name": "Harry Kane", "img": "placeholder" },
+    { "name": "Wayne Rooney", "img": "placeholder" },
+    { "name": "Andy Cole", "img": "placeholder" },
+    { "name": "Sergio Agüero", "img": "placeholder" },
+    { "name": "Frank Lampard", "img": "placeholder" },
+    { "name": "Thierry Henry", "img": "placeholder" },
+    { "name": "Robbie Fowler", "img": "placeholder" },
+    { "name": "Jermain Defoe", "img": "placeholder" },
+    { "name": "Michael Owen", "img": "placeholder" },
+    { "name": "Les Ferdinand", "img": "placeholder" },
+    { "name": "Teddy Sheringham", "img": "placeholder" },
+    { "name": "Robin van Persie", "img": "placeholder" },
+    { "name": "Mohamed Salah", "img": "placeholder" },
+    { "name": "Jamie Vardy", "img": "placeholder" },
+    { "name": "Jimmy Floyd Hasselbaink", "img": "placeholder" },
+    { "name": "Robbie Keane", "img": "placeholder" },
+    { "name": "Nicolas Anelka", "img": "placeholder" },
+    { "name": "Dwight Yorke", "img": "placeholder" },
+    { "name": "Romelu Lukaku", "img": "placeholder" },
+    { "name": "Steven Gerrard", "img": "placeholder" },
+    { "name": "Raheem Sterling", "img": "placeholder" },
+    { "name": "Ian Wright", "img": "placeholder" },
+    { "name": "Sadio Mané", "img": "placeholder" },
+    { "name": "Dion Dublin", "img": "placeholder" }
+  ]
+}
