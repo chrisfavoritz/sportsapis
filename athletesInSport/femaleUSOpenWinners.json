@@ -1,0 +1,17 @@
+{
+  "items": [
+    { "name": "Venus Williams", "img": "placeholder" },
+    { "name": "Serena Williams", "img": "placeholder" },
+    { "name": "Justine Henin", "img": "placeholder" },
+    { "name": "Svetlana Kuznetsova", "img": "placeholder" },
+    { "name": "Kim Clijsters", "img": "placeholder" },
+    { "name": "Maria Sharapova", "img": "placeholder" },
+    { "name": "Samantha Stosur", "img": "placeholder" },
+    { "name": "Flavia Pennetta", "img": "placeholder" },
+    { "name": "Angelique Kerber", "img": "placeholder" },
+    { "name": "Sloane Stephens", "img": "placeholder" },
+    { "name": "Naomi Osaka", "img": "placeholder" },
+    { "name": "Bianca Andreescu", "img": "placeholder" },
+    { "name": "Emma Raducanu", "img": "placeholder" }
+  ]
+}
