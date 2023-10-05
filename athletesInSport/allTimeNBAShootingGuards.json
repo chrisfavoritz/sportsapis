@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "name": "Michael Jordan", "img": "placeholder" },
+    { "name": "Kobe Bryant", "img": "placeholder" },
+    { "name": "Dwyane Wade", "img": "placeholder" },
+    { "name": "James Harden", "img": "placeholder" },
+    { "name": "Jerry West", "img": "placeholder" },
+    { "name": "Clyde Drexler", "img": "placeholder" },
+    { "name": "Allen Iverson", "img": "placeholder" },
+    { "name": "Reggie Miller", "img": "placeholder" },
+    { "name": "George Gervin", "img": "placeholder" },
+    { "name": "Ray Allen", "img": "placeholder" },
+    { "name": "Tracy McGrady", "img": "placeholder" },
+    { "name": "Vince Carter", "img": "placeholder" },
+    { "name": "Sam Jones", "img": "placeholder" },
+    { "name": "Joe Dumars", "img": "placeholder" },
+    { "name": "Earl Monroe", "img": "placeholder" },
+    { "name": "Chris Mullin", "img": "placeholder" },
+    { "name": "Mitch Richmond", "img": "placeholder" },
+    { "name": "Manu Ginóbili", "img": "placeholder" },
+    { "name": "Sidney Moncrief", "img": "placeholder" },
+    { "name": "Dražen Petrović", "img": "placeholder" },
+    { "name": "Klay Thompson", "img": "placeholder" },
+    { "name": "Joe Johnson", "img": "placeholder" },
+    { "name": "Gail Goodrich", "img": "placeholder" },
+    { "name": "Eddie Jones", "img": "placeholder" },
+    { "name": "Rip Hamilton", "img": "placeholder" }
+  ]
+}
