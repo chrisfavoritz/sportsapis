@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "name": "Babe Ruth", "img": "placeholder" },
+    { "name": "Hank Aaron", "img": "placeholder" },
+    { "name": "Frank Robinson", "img": "placeholder" },
+    { "name": "Roberto Clemente", "img": "placeholder" },
+    { "name": "Stan Musial", "img": "placeholder" },
+    { "name": "Willie Mays", "img": "placeholder" },
+    { "name": "Mel Ott", "img": "placeholder" },
+    { "name": "Reggie Jackson", "img": "placeholder" },
+    { "name": "Al Kaline", "img": "placeholder" },
+    { "name": "Tony Gwynn", "img": "placeholder" },
+    { "name": "Shoeless Joe Jackson", "img": "placeholder" },
+    { "name": "Vladimir Guerrero", "img": "placeholder" },
+    { "name": "Larry Walker", "img": "placeholder" },
+    { "name": "Dave Winfield", "img": "placeholder" },
+    { "name": "Gary Sheffield", "img": "placeholder" },
+    { "name": "Harry Heilmann", "img": "placeholder" },
+    { "name": "Sammy Sosa", "img": "placeholder" },
+    { "name": "Ichiro Suzuki", "img": "placeholder" },
+    { "name": "Paul Waner", "img": "placeholder" },
+    { "name": "Bobby Abreu", "img": "placeholder" },
+    { "name": "Dwight Evans", "img": "placeholder" },
+    { "name": "Rocky Colavito", "img": "placeholder" },
+    { "name": "Elmer Flick", "img": "placeholder" },
+    { "name": "Paul O'Neill", "img": "placeholder" },
+    { "name": "Jack Clark", "img": "placeholder" }
+  ]
+}
