@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "name": "Magic Johnson", "img": "placeholder" },
+    { "name": "Larry Bird", "img": "placeholder" },
+    { "name": "Kareem Abdul-Jabbar", "img": "placeholder" },
+    { "name": "Julius Erving", "img": "placeholder" },
+    { "name": "Moses Malone", "img": "placeholder" },
+    { "name": "Isiah Thomas", "img": "placeholder" },
+    { "name": "Hakeem Olajuwon", "img": "placeholder" },
+    { "name": "Dominique Wilkins", "img": "placeholder" },
+    { "name": "Kevin McHale", "img": "placeholder" },
+    { "name": "Robert Parish", "img": "placeholder" },
+    { "name": "Clyde Drexler", "img": "placeholder" },
+    { "name": "Bernard King", "img": "placeholder" },
+    { "name": "James Worthy", "img": "placeholder" },
+    { "name": "Adrian Dantley", "img": "placeholder" },
+    { "name": "George Gervin", "img": "placeholder" },
+    { "name": "Sidney Moncrief", "img": "placeholder" },
+    { "name": "Dennis Johnson", "img": "placeholder" },
+    { "name": "Alex English", "img": "placeholder" },
+    { "name": "Kevin Johnson", "img": "placeholder" },
+    { "name": "Ralph Sampson", "img": "placeholder" },
+    { "name": "Mark Aguirre", "img": "placeholder" },
+    { "name": "Terry Cummings", "img": "placeholder" },
+    { "name": "Bill Laimbeer", "img": "placeholder" },
+    { "name": "Joe Dumars", "img": "placeholder" },
+    { "name": "Rolando Blackman", "img": "placeholder" }
+  ]
+}
