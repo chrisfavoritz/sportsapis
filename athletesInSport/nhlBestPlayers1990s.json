@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "name": "Wayne Gretzky", "img": "placeholder" },
+    { "name": "Mario Lemieux", "img": "placeholder" },
+    { "name": "Ray Bourque", "img": "placeholder" },
+    { "name": "Jaromir Jagr", "img": "placeholder" },
+    { "name": "Mark Messier", "img": "placeholder" },
+    { "name": "Dominik Hašek", "img": "placeholder" },
+    { "name": "Paul Coffey", "img": "placeholder" },
+    { "name": "Pavel Bure", "img": "placeholder" },
+    { "name": "Nicklas Lidström", "img": "placeholder" },
+    { "name": "Brett Hull", "img": "placeholder" },
+    { "name": "Steve Yzerman", "img": "placeholder" },
+    { "name": "Eric Lindros", "img": "placeholder" },
+    { "name": "Chris Chelios", "img": "placeholder" },
+    { "name": "Teemu Selänne", "img": "placeholder" },
+    { "name": "Brendan Shanahan", "img": "placeholder" },
+    { "name": "Mats Sundin", "img": "placeholder" },
+    { "name": "Adam Oates", "img": "placeholder" },
+    { "name": "Ron Francis", "img": "placeholder" },
+    { "name": "Sergei Fedorov", "img": "placeholder" },
+    { "name": "Brian Leetch", "img": "placeholder" },
+    { "name": "Joe Sakic", "img": "placeholder" },
+    { "name": "Scott Stevens", "img": "placeholder" },
+    { "name": "Joe Nieuwendyk", "img": "placeholder" },
+    { "name": "Curtis Joseph", "img": "placeholder" },
+    { "name": "Ed Belfour", "img": "placeholder" }
+  ]
+}
