@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "name": "Serena Williams", "img": "placeholder" },
+    { "name": "Maria Sharapova", "img": "placeholder" },
+    { "name": "Simona Halep", "img": "placeholder" },
+    { "name": "Naomi Osaka", "img": "placeholder" },
+    { "name": "Angelique Kerber", "img": "placeholder" },
+    { "name": "Petra Kvitová", "img": "placeholder" },
+    { "name": "Victoria Azarenka", "img": "placeholder" },
+    { "name": "Garbiñe Muguruza", "img": "placeholder" },
+    { "name": "Caroline Wozniacki", "img": "placeholder" },
+    { "name": "Sloane Stephens", "img": "placeholder" },
+    { "name": "Ashleigh Barty", "img": "placeholder" },
+    { "name": "Karolína Plíšková", "img": "placeholder" },
+    { "name": "Agnieszka Radwańska", "img": "placeholder" },
+    { "name": "Li Na", "img": "placeholder" },
+    { "name": "Samantha Stosur", "img": "placeholder" },
+    { "name": "Jelena Janković", "img": "placeholder" },
+    { "name": "Marion Bartoli", "img": "placeholder" },
+    { "name": "Sabine Lisicki", "img": "placeholder" },
+    { "name": "Madison Keys", "img": "placeholder" },
+    { "name": "Flavia Pennetta", "img": "placeholder" },
+    { "name": "Anastasia Pavlyuchenkova", "img": "placeholder" },
+    { "name": "Elina Svitolina", "img": "placeholder" },
+    { "name": "Dominika Cibulková", "img": "placeholder" },
+    { "name": "Julia Görges", "img": "placeholder" },
+    { "name": "Belinda Bencic", "img": "placeholder" }
+  ]
+}
