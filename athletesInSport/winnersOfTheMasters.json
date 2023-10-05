@@ -1,0 +1,20 @@
+{
+  "items": [
+    { "name": "Vijay Singh", "img": "placeholder" },
+    { "name": "Tiger Woods", "img": "placeholder" },
+    { "name": "Mike Weir", "img": "placeholder" },
+    { "name": "Phil Mickelson", "img": "placeholder" },
+    { "name": "Zach Johnson", "img": "placeholder" },
+    { "name": "Trevor Immelman", "img": "placeholder" },
+    { "name": "Ángel Cabrera", "img": "placeholder" },
+    { "name": "Charl Schwartzel", "img": "placeholder" },
+    { "name": "Bubba Watson", "img": "placeholder" },
+    { "name": "Adam Scott", "img": "placeholder" },
+    { "name": "Jordan Spieth", "img": "placeholder" },
+    { "name": "Danny Willett", "img": "placeholder" },
+    { "name": "Sergio García", "img": "placeholder" },
+    { "name": "Patrick Reed", "img": "placeholder" },
+    { "name": "Dustin Johnson", "img": "placeholder" },
+    { "name": "Hideki Matsuyama", "img": "placeholder" }
+  ]
+}
