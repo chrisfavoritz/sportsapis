@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "name": "Sidney Crosby", "img": "placeholder" },
+    { "name": "Alexander Ovechkin", "img": "placeholder" },
+    { "name": "Patrick Kane", "img": "placeholder" },
+    { "name": "Jonathan Toews", "img": "placeholder" },
+    { "name": "Duncan Keith", "img": "placeholder" },
+    { "name": "Carey Price", "img": "placeholder" },
+    { "name": "Erik Karlsson", "img": "placeholder" },
+    { "name": "Drew Doughty", "img": "placeholder" },
+    { "name": "Steven Stamkos", "img": "placeholder" },
+    { "name": "Victor Hedman", "img": "placeholder" },
+    { "name": "Anze Kopitar", "img": "placeholder" },
+    { "name": "Nikita Kucherov", "img": "placeholder" },
+    { "name": "Claude Giroux", "img": "placeholder" },
+    { "name": "Brad Marchand", "img": "placeholder" },
+    { "name": "Jamie Benn", "img": "placeholder" },
+    { "name": "John Tavares", "img": "placeholder" },
+    { "name": "Connor McDavid", "img": "placeholder" },
+    { "name": "Evgeni Malkin", "img": "placeholder" },
+    { "name": "P.K. Subban", "img": "placeholder" },
+    { "name": "Blake Wheeler", "img": "placeholder" },
+    { "name": "Brent Burns", "img": "placeholder" },
+    { "name": "Vladimir Tarasenko", "img": "placeholder" },
+    { "name": "Patrice Bergeron", "img": "placeholder" },
+    { "name": "Shea Weber", "img": "placeholder" },
+    { "name": "Roman Josi", "img": "placeholder" }
+  ]
+}
