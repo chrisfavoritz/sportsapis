@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "name": "Ryan Giggs", "img": "placeholder" },
+    { "name": "Cristiano Ronaldo", "img": "placeholder" },
+    { "name": "Robert Pires", "img": "placeholder" },
+    { "name": "Arjen Robben", "img": "placeholder" },
+    { "name": "Marc Overmars", "img": "placeholder" },
+    { "name": "Steve McManaman", "img": "placeholder" },
+    { "name": "Luis García", "img": "placeholder" },
+    { "name": "Ashley Young", "img": "placeholder" },
+    { "name": "Marc Albrighton", "img": "placeholder" },
+    { "name": "Kieran Trippier", "img": "placeholder" },
+    { "name": "David Ginola", "img": "placeholder" },
+    { "name": "Matt Jarvis", "img": "placeholder" },
+    { "name": "Stewart Downing", "img": "placeholder" },
+    { "name": "Chris Waddle", "img": "placeholder" },
+    { "name": "Shaun Wright-Phillips", "img": "placeholder" },
+    { "name": "Antonio Valencia", "img": "placeholder" },
+    { "name": "David Beckham", "img": "placeholder" },
+    { "name": "André Ayew", "img": "placeholder" },
+    { "name": "Charles N'Zogbia", "img": "placeholder" },
+    { "name": "Callum Hudson-Odoi", "img": "placeholder" },
+    { "name": "Wilfried Zaha", "img": "placeholder" },
+    { "name": "Michail Antonio", "img": "placeholder" },
+    { "name": "Aiden McGeady", "img": "placeholder" },
+    { "name": "Gylfi Sigurðsson", "img": "placeholder" },
+    { "name": "Nathan Redmond", "img": "placeholder" }
+  ]
+}
