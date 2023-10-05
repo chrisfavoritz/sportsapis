@@ -1,0 +1,26 @@
+{
+  "items": [
+    { "name": "Zhou Guanyu", "img": "placeholder" },
+    { "name": "Valtteri Bottas", "img": "placeholder" },
+    { "name": "Nyck de Vries", "img": "placeholder" },
+    { "name": "Daniel Ricciardo", "img": "placeholder" },
+    { "name": "Liam Lawson", "img": "placeholder" },
+    { "name": "Yuki Tsunoda", "img": "placeholder" },
+    { "name": "Pierre Gasly", "img": "placeholder" },
+    { "name": "Esteban Ocon", "img": "placeholder" },
+    { "name": "Fernando Alonso", "img": "placeholder" },
+    { "name": "Lance Stroll", "img": "placeholder" },
+    { "name": "Charles Leclerc", "img": "placeholder" },
+    { "name": "Carlos Sainz Jr.", "img": "placeholder" },
+    { "name": "Kevin Magnussen", "img": "placeholder" },
+    { "name": "Nico Hülkenberg", "img": "placeholder" },
+    { "name": "Lando Norris", "img": "placeholder" },
+    { "name": "Oscar Piastri", "img": "placeholder" },
+    { "name": "Lewis Hamilton", "img": "placeholder" },
+    { "name": "George Russell", "img": "placeholder" },
+    { "name": "Max Verstappen", "img": "placeholder" },
+    { "name": "Sergio Pérez", "img": "placeholder" },
+    { "name": "Logan Sargeant", "img": "placeholder" },
+    { "name": "Alexander Albon", "img": "placeholder" }
+  ]
+}
