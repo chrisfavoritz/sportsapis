@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "name": "LeBron James", "img": "placeholder" },
+    { "name": "Kevin Durant", "img": "placeholder" },
+    { "name": "Stephen Curry", "img": "placeholder" },
+    { "name": "Kawhi Leonard", "img": "placeholder" },
+    { "name": "James Harden", "img": "placeholder" },
+    { "name": "Russell Westbrook", "img": "placeholder" },
+    { "name": "Chris Paul", "img": "placeholder" },
+    { "name": "Anthony Davis", "img": "placeholder" },
+    { "name": "Giannis Antetokounmpo", "img": "placeholder" },
+    { "name": "Dwight Howard", "img": "placeholder" },
+    { "name": "Carmelo Anthony", "img": "placeholder" },
+    { "name": "Blake Griffin", "img": "placeholder" },
+    { "name": "Paul George", "img": "placeholder" },
+    { "name": "Klay Thompson", "img": "placeholder" },
+    { "name": "Damian Lillard", "img": "placeholder" },
+    { "name": "Kyrie Irving", "img": "placeholder" },
+    { "name": "DeMarcus Cousins", "img": "placeholder" },
+    { "name": "Dirk Nowitzki", "img": "placeholder" },
+    { "name": "Dwyane Wade", "img": "placeholder" },
+    { "name": "Jimmy Butler", "img": "placeholder" },
+    { "name": "Kyle Lowry", "img": "placeholder" },
+    { "name": "Marc Gasol", "img": "placeholder" },
+    { "name": "LaMarcus Aldridge", "img": "placeholder" },
+    { "name": "John Wall", "img": "placeholder" },
+    { "name": "Draymond Green", "img": "placeholder" }
+  ]
+}
