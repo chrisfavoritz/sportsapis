@@ -1,0 +1,20 @@
+{
+  "items": [
+    { "name": "Galaxy", "img": "placeholder" },
+    { "name": "Poison Dart Frog", "img": "placeholder" },
+    { "name": "Cheetah", "img": "placeholder" },
+    { "name": "Leopard", "img": "placeholder" },
+    { "name": "Shark", "img": "placeholder" },
+    { "name": "Invisibility Cloak", "img": "placeholder" },
+    { "name": "Lakers Home", "img": "placeholder" },
+    { "name": "Lakers Away", "img": "placeholder" },
+    { "name": "Supreme", "img": "placeholder" },
+    { "name": "Christmas", "img": "placeholder" },
+    { "name": "Year of the Dragon", "img": "placeholder" },
+    { "name": "Gold Medal", "img": "placeholder" },
+    { "name": "Great White Shark", "img": "placeholder" },
+    { "name": "Poison Dart Frog 'Easter'", "img": "placeholder" },
+    { "name": "Wolf Grey", "img": "placeholder" },
+    { "name": "What the Kobe", "img": "placeholder" }
+  ]
+}
