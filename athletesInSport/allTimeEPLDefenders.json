@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "name": "John Terry", "img": "placeholder" },
+    { "name": "Rio Ferdinand", "img": "placeholder" },
+    { "name": "Ashley Cole", "img": "placeholder" },
+    { "name": "Gary Neville", "img": "placeholder" },
+    { "name": "Tony Adams", "img": "placeholder" },
+    { "name": "Nemanja Vidić", "img": "placeholder" },
+    { "name": "Sol Campbell", "img": "placeholder" },
+    { "name": "Patrice Evra", "img": "placeholder" },
+    { "name": "Vincent Kompany", "img": "placeholder" },
+    { "name": "Dennis Irwin", "img": "placeholder" },
+    { "name": "Steve Bruce", "img": "placeholder" },
+    { "name": "Leighton Baines", "img": "placeholder" },
+    { "name": "Jaap Stam", "img": "placeholder" },
+    { "name": "Branislav Ivanović", "img": "placeholder" },
+    { "name": "Alan Hansen", "img": "placeholder" },
+    { "name": "Graeme Le Saux", "img": "placeholder" },
+    { "name": "Phil Neville", "img": "placeholder" },
+    { "name": "Lee Dixon", "img": "placeholder" },
+    { "name": "César Azpilicueta", "img": "placeholder" },
+    { "name": "Ian Harte", "img": "placeholder" },
+    { "name": "William Gallas", "img": "placeholder" },
+    { "name": "Stephen Carr", "img": "placeholder" },
+    { "name": "Martin Keown", "img": "placeholder" },
+    { "name": "Richard Dunne", "img": "placeholder" },
+    { "name": "Kolo Touré", "img": "placeholder" }
+  ]
+}
