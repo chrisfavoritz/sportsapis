@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "name": "Serena Williams", "img": "placeholder" },
+    { "name": "Venus Williams", "img": "placeholder" },
+    { "name": "Justine Henin", "img": "placeholder" },
+    { "name": "Kim Clijsters", "img": "placeholder" },
+    { "name": "Maria Sharapova", "img": "placeholder" },
+    { "name": "Amélie Mauresmo", "img": "placeholder" },
+    { "name": "Lindsay Davenport", "img": "placeholder" },
+    { "name": "Jennifer Capriati", "img": "placeholder" },
+    { "name": "Svetlana Kuznetsova", "img": "placeholder" },
+    { "name": "Ana Ivanovic", "img": "placeholder" },
+    { "name": "Jelena Janković", "img": "placeholder" },
+    { "name": "Elena Dementieva", "img": "placeholder" },
+    { "name": "Francesca Schiavone", "img": "placeholder" },
+    { "name": "Dinara Safina", "img": "placeholder" },
+    { "name": "Caroline Wozniacki", "img": "placeholder" },
+    { "name": "Victoria Azarenka", "img": "placeholder" },
+    { "name": "Martina Hingis", "img": "placeholder" },
+    { "name": "Mary Pierce", "img": "placeholder" },
+    { "name": "Agnieszka Radwańska", "img": "placeholder" },
+    { "name": "Marion Bartoli", "img": "placeholder" },
+    { "name": "Li Na", "img": "placeholder" },
+    { "name": "Vera Zvonareva", "img": "placeholder" },
+    { "name": "Patty Schnyder", "img": "placeholder" },
+    { "name": "Samantha Stosur", "img": "placeholder" },
+    { "name": "Dominika Cibulková", "img": "placeholder" }
+  ]
+}
