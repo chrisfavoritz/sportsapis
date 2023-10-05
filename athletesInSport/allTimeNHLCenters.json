@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "name": "Wayne Gretzky", "img": "placeholder" },
+    { "name": "Mario Lemieux", "img": "placeholder" },
+    { "name": "Gordie Howe", "img": "placeholder" },
+    { "name": "Jean Béliveau", "img": "placeholder" },
+    { "name": "Mark Messier", "img": "placeholder" },
+    { "name": "Sidney Crosby", "img": "placeholder" },
+    { "name": "Stan Mikita", "img": "placeholder" },
+    { "name": "Phil Esposito", "img": "placeholder" },
+    { "name": "Joe Sakic", "img": "placeholder" },
+    { "name": "Marcel Dionne", "img": "placeholder" },
+    { "name": "Bryan Trottier", "img": "placeholder" },
+    { "name": "Steve Yzerman", "img": "placeholder" },
+    { "name": "Peter Forsberg", "img": "placeholder" },
+    { "name": "Joe Thornton", "img": "placeholder" },
+    { "name": "Adam Oates", "img": "placeholder" },
+    { "name": "Ron Francis", "img": "placeholder" },
+    { "name": "Doug Gilmour", "img": "placeholder" },
+    { "name": "Pat LaFontaine", "img": "placeholder" },
+    { "name": "Bobby Clarke", "img": "placeholder" },
+    { "name": "Sergei Fedorov", "img": "placeholder" },
+    { "name": "Henrik Sedin", "img": "placeholder" },
+    { "name": "Eric Lindros", "img": "placeholder" },
+    { "name": "Jonathan Toews", "img": "placeholder" },
+    { "name": "Gilbert Perreault", "img": "placeholder" },
+    { "name": "Patrice Bergeron", "img": "placeholder" }
+  ]
+}
