@@ -1,18 +1,10 @@
 {
   "items": [
-    { "name": "Black/White/Metallic Silver", "img": "placeholder" },
-    { "name": "White/Black/Metallic Silver", "img": "placeholder" },
-    { "name": "All-Star", "img": "placeholder" },
-    { "name": "Black/Black/Black", "img": "placeholder" },
-    { "name": "Lower Merion Aces", "img": "placeholder" },
-    { "name": "Black/Black/University Gold", "img": "placeholder" },
-    { "name": "Grey/Black/Ice Blue", "img": "placeholder" },
-    { "name": "Red/Varsity Red/White", "img": "placeholder" },
-    { "name": "Black/Purple", "img": "placeholder" },
-    { "name": "White/Carolina Blue", "img": "placeholder" },
-    { "name": "White/Red", "img": "placeholder" },
-    { "name": "White/Yellow", "img": "placeholder" },
-    { "name": "White/Blue", "img": "placeholder" },
-    { "name": "White/Grey", "img": "placeholder" }
+    { "name": "Wonder White", "img": "https://cdn.flightclub.com/1250/TEMPLATE/378516/1.jpg" },
+    { "name": "Stormtrooper", "img": "https://cdn.flightclub.com/1250/TEMPLATE/157936/1.jpg" },
+    { "name": "Ice Blue", "img": "https://cdn.flightclub.com/1250/TEMPLATE/377883/1.jpg" },
+    { "name": "Snakeskin", "img": "https://cdn.flightclub.com/1250/TEMPLATE/340013/1.jpg" },
+    { "name": "Regal Purple", "img": "https://cdn.flightclub.com/1250/TEMPLATE/339927/1.jpg" },
+    { "name": "Sunshine", "img": "https://cdn.flightclub.com/1250/TEMPLATE/305646/1.jpg" }
   ]
 }
