@@ -1,24 +1,12 @@
 {
   "items": [
-    { "name": "White/Black-Varsity Crimson", "img": "placeholder" },
-    { "name": "White/Midnight Navy-Varsity Crimson", "img": "placeholder" },
-    { "name": "Black/White-Varsity Crimson", "img": "placeholder" },
-    { "name": "Black/Red", "img": "placeholder" },
-    { "name": "All-Star Game", "img": "placeholder" },
-    { "name": "First Game", "img": "placeholder" },
-    { "name": "Wheat", "img": "placeholder" },
-    { "name": "SVSM", "img": "placeholder" },
-    { "name": "1st Game Retro", "img": "placeholder" },
-    { "name": "King's Rook", "img": "placeholder" },
-    { "name": "SVSM Retro", "img": "placeholder" },
-    { "name": "First Game Retro (2017)", "img": "placeholder" },
-    { "name": "Black/Gum", "img": "placeholder" },
-    { "name": "Camper", "img": "placeholder" },
-    { "name": "SVSM Home", "img": "placeholder" },
-    { "name": "SVSM Away", "img": "placeholder" },
-    { "name": "SVSM Away PE", "img": "placeholder" },
-    { "name": "SVSM Home PE", "img": "placeholder" },
-    { "name": "Wheat Retro", "img": "placeholder" },
-    { "name": "SVSM Retro", "img": "placeholder" }
+    { "name": "Debut", "img": "https://cdn.flightclub.com/1250/TEMPLATE/040223/1.jpg" },
+    { "name": "White Varsity Crimson", "img": "https://cdn.flightclub.com/1250/TEMPLATE/040569/1.jpg" },
+    { "name": "Court Purple", "img": "https://cdn.flightclub.com/1250/TEMPLATE/353828/1.jpg" },
+    { "name": "First Game", "img": "https://cdn.flightclub.com/1250/TEMPLATE/040070/1.jpg" },
+    { "name": "Wheat", "img": "https://cdn.flightclub.com/1250/TEMPLATE/040184/1.jpg" },
+    { "name": "SVSM", "img": "https://cdn.flightclub.com/1250/TEMPLATE/804069/1.jpg" },
+    { "name": "Dark Grey", "img": "https://cdn.flightclub.com/1250/TEMPLATE/360511/1.jpg" },
+    { "name": "King's Rook", "img": "https://cdn.flightclub.com/1250/TEMPLATE/040245/1.jpg" }
   ]
 }
