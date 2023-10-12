@@ -1,19 +1,16 @@
 {
   "items": [
-    { "name": "Black/Yellow (Kobe's debut colorway)", "img": "placeholder" },
-    { "name": "White/Purple/Yellow (Lakers Home)", "img": "placeholder" },
-    { "name": "Black/Purple/Yellow (Lakers Away)", "img": "placeholder" },
-    { "name": "USA Olympic", "img": "placeholder" },
-    { "name": "All-Star", "img": "placeholder" },
-    { "name": "Strength", "img": "placeholder" },
-    { "name": "ST", "img": "placeholder" },
-    { "name": "Prelude", "img": "placeholder" },
-    { "name": "Carpe Diem", "img": "placeholder" },
-    { "name": "Sheath", "img": "placeholder" },
-    { "name": "Lite", "img": "placeholder" },
-    { "name": "Lite Blackout", "img": "placeholder" },
-    { "name": "Shark", "img": "placeholder" },
-    { "name": "Force", "img": "placeholder" },
-    { "name": "Grand Purple", "img": "placeholder" }
+    { "name": "Carpe Diem", "img": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/079/595/614/original/79711_00.png.png?action=crop&width=700" },
+    { "name": "White/Purple/Yellow (Lakers Home)", "img": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/082/393/930/original/313144_00.png.png?action=crop&width=700" },
+    { "name": "Black/Purple/Yellow (Lakers Away)", "img": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/010/214/374/original/316022_051.png.png?action=crop&width=700" },
+    { "name": "USA Olympic", "img": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/000/029/215/original/316022_141.png.png?action=crop&width=700" },
+    { "name": "ST Olympic", "img": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/000/029/368/original/316835_411.png.png?action=crop&width=700" },
+    { "name": "ST Orca", "img": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/080/610/372/original/63757_00.png.png?action=crop&width=700" },
+    { "name": "Fade to Black", "img": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/078/711/201/original/45396_00.png.png?action=crop&width=700" },
+    { "name": "White Varsity Purple Lite", "img": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/077/927/049/original/317088_101.png.png?action=crop&width=700" },
+    { "name": "Lite Anthracite", "img": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/010/214/375/original/317088_001.png.png?action=crop&width=700" },
+    { "name": "Shark", "img": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/005/868/293/original/316022_111.png.png?action=crop&width=700" },
+    { "name": "ST Baroque Brown", "img": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/000/084/344/original/316835_021.png.png?action=crop&width=700" },
+    { "name": "Prelude", "img": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/069/643/697/original/13277_00.png.png?action=crop&width=700" }
   ]
 }
