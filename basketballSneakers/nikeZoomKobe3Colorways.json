@@ -1,22 +1,14 @@
 {
   "items": [
-    { "name": "All-Star", "img": "placeholder" },
-    { "name": "Black Mamba", "img": "placeholder" },
-    { "name": "Prelude", "img": "placeholder" },
-    { "name": "Lower Merion Aces (Home)", "img": "placeholder" },
-    { "name": "Lower Merion Aces (Away)", "img": "placeholder" },
-    { "name": "White/Purple/Yellow (Lakers Home)", "img": "placeholder" },
-    { "name": "Black/Purple/Yellow (Lakers Away)", "img": "placeholder" },
-    { "name": "Hornets", "img": "placeholder" },
-    { "name": "MVP", "img": "placeholder" },
-    { "name": "Draft Day", "img": "placeholder" },
-    { "name": "Rings", "img": "placeholder" },
-    { "name": "Christmas", "img": "placeholder" },
-    { "name": "Carpe Diem", "img": "placeholder" },
-    { "name": "White/Black/Red", "img": "placeholder" },
-    { "name": "White/Red/Black", "img": "placeholder" },
-    { "name": "White/Purple/Yellow", "img": "placeholder" },
-    { "name": "Del Sol", "img": "placeholder" },
-    { "name": "Laser", "img": "placeholder" }
-  ]
+    { "name": "All-Star", "img": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/052/994/042/original/21783_00.png.png?action=crop&width=300" },
+    { "name": "Black Mamba", "img": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/024/228/161/original/318288_012.png.png?action=crop&width=300" },
+    { "name": "Prelude", "img": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/082/728/694/original/13273_00.png.png?action=crop&width=300" },
+    { "name": "Lower Merion Aces (Home)", "img": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/000/031/275/original/318090_111.png.png?action=crop&width=300" },
+    { "name": "White/Purple/Yellow (Lakers Home)", "img": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/084/178/311/original/21774_00.png.png?action=crop&width=300" },
+    { "name": "MPLS", "img": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/047/407/015/original/21820_00.png.png?action=crop&width=300" },
+    { "name": "Orca", "img": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/000/491/234/original/318090_012.png.png?action=crop&width=300" },
+    { "name": "Fade to Black", "img": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/080/611/328/original/45398_00.png.png?action=crop&width=300" },
+    { "name": "MVP", "img": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/080/459/413/original/24082_00.png.png?action=crop&width=300" },
+    { "name": "Black Gold", "img": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/000/031/274/original/318090_073.png.png?action=crop&width=300" },
+    { "name": "White Black", "img": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/000/084/351/original/318695_101.png.png?action=crop&width=300" }
 }
