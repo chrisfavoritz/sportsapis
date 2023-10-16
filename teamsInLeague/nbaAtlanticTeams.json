@@ -1,0 +1,9 @@
+{
+  "items": [
+    { "name": "Boston Celtics", "img": "https://static.wikia.nocookie.net/nba/images/8/8b/BostonCelticsLogo.png/revision/latest/scale-to-width-down/1000?cb=20220706051855" },
+    { "name": "Brooklyn Nets", "img": "https://static.wikia.nocookie.net/nba/images/2/28/Brooklyn_Nets_logo.png/revision/latest/scale-to-width-down/1000?cb=20220711043939" },
+    { "name": "New York Knicks", "img": "https://static.wikia.nocookie.net/nba/images/b/bd/New_York_Knicks_logo.png/revision/latest/scale-to-width-down/1000?cb=20230423023303" },
+    { "name": "Philadelphia 76ers", "img": "https://static.wikia.nocookie.net/nba/images/4/40/Philadelphia76erslogo.png/revision/latest/scale-to-width-down/1000?cb=20230423023139" },
+    { "name": "Toronto Raptors", "img": "https://static.wikia.nocookie.net/nba/images/d/df/TorontoRaptorsNewLogo.png/revision/latest/scale-to-width-down/1000?cb=20210419203550" }
+  ]
+}
