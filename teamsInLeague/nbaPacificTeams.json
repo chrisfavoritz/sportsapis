@@ -1,0 +1,9 @@
+{
+  "items": [
+    { "name": "Golden State Warriors", "img": "https://static.wikia.nocookie.net/nba/images/0/0f/Golden_State_Warriors_logo.png/revision/latest/scale-to-width-down/1000?cb=20220711044225" },
+    { "name": "Los Angeles Clippers", "img": "https://static.wikia.nocookie.net/nba/images/2/2c/Los_Angeles_Clippers_logo.png/revision/latest/scale-to-width-down/1000?cb=20220716064159" },
+    { "name": "Los Angeles Lakers", "img": "https://static.wikia.nocookie.net/nba/images/8/8d/LA_Lakers_logo.png/revision/latest/scale-to-width-down/1000?cb=20220711042709" },
+    { "name": "Phoenix Suns", "img": "https://static.wikia.nocookie.net/nba/images/f/f3/Phoenix_Suns_logo.png/revision/latest/scale-to-width-down/1000?cb=20220716065115" },
+    { "name": "Sacramento Kings", "img": "https://static.wikia.nocookie.net/nba/images/a/a1/Sacramento_Kings_logo.png/revision/latest?cb=20200503074155" }
+  ]
+}
