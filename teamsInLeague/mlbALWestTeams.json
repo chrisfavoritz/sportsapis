@@ -1,0 +1,9 @@
+{
+  "items": [
+    { "name": "Houston Astros", "img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/hou.png" },
+    { "name": "Los Angeles Angels", "img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/laa.png" },
+    { "name": "Oakland Athletics", "img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/oak.png" },
+    { "name": "Seattle Mariners", "img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/sea.png" },
+    { "name": "Texas Rangers", "img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/tex.png" }
+  ]
+}
