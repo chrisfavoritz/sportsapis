@@ -1,0 +1,9 @@
+{
+  "items": [
+    { "name": "Baltimore Orioles", "img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/bal.png" },
+    { "name": "Boston Red Sox", "img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/bos.png" },
+    { "name": "New York Yankees", "img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/nyy.png" },
+    { "name": "Tampa Bay Rays", "img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/tb.png" },
+    { "name": "Toronto Blue Jays", "img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/tor.png" }
+  ]
+}
