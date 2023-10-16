@@ -1,0 +1,9 @@
+{
+  "items": [
+    { "name": "Kyrie Irving", "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/202681.png" },
+    { "name": "Donovan Mitchell", "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628378.png" },
+    { "name": "Giannis Antetokounmpo", "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/203507.png" },
+    { "name": "Kevin Durant", "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/201142.png" },
+    { "name": "Jayson Tatum", "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628369.png" }
+  ]
+}
