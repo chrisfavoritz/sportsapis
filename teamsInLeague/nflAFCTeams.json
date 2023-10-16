@@ -1,0 +1,20 @@
+{
+  "items": [
+    { "name": "Baltimore Ravens", "img": "https://static.wikia.nocookie.net/collegefootballmania/images/2/29/BaltimoreRavens_100.png/revision/latest?cb=20120305045721" },
+    { "name": "Buffalo Bills", "img": "https://static.wikia.nocookie.net/collegefootballmania/images/1/1c/Buffalo_Bills_logo.png/revision/latest/scale-to-width-down/1000?cb=20210922163723" },
+    { "name": "Cincinnati Bengals", "img": "https://static.wikia.nocookie.net/collegefootballmania/images/1/19/Cincinnati_Bengals_logo.png/revision/latest?cb=20220306130715" },
+    { "name": "Cleveland Browns", "img": "https://static.wikia.nocookie.net/collegefootballmania/images/1/14/NFL-AFC-CLE-Browns_seal_brown_wordmark.png/revision/latest/scale-to-width-down/1000?cb=20220518162516" },
+    { "name": "Denver Broncos", "img": "https://static.wikia.nocookie.net/collegefootballmania/images/0/05/Broncoslogo.jpg/revision/latest?cb=20120322014340" },
+    { "name": "Houston Texans", "img": "https://static.wikia.nocookie.net/collegefootballmania/images/4/43/Texans.gif/revision/latest?cb=20120106004903" },
+    { "name": "Indianapolis Colts", "img": "https://static.wikia.nocookie.net/collegefootballmania/images/1/13/Colts.gif/revision/latest?cb=20120322010808" },
+    { "name": "Jacksonville Jaguars", "img": "https://static.wikia.nocookie.net/collegefootballmania/images/d/dd/JagsLogo.png/revision/latest?cb=20130427232518" },
+    { "name": "Kansas City Chiefs", "img": "https://static.wikia.nocookie.net/collegefootballmania/images/6/60/Chiefslogo.gif/revision/latest?cb=20120322014715" },
+    { "name": "Las Vegas Raiders", "img": "https://static.wikia.nocookie.net/collegefootballmania/images/d/de/Las_Vegas_Raiders.png/revision/latest/scale-to-width-down/1000?cb=20230815025500" },
+    { "name": "Los Angeles Chargers", "img": "https://static.wikia.nocookie.net/collegefootballmania/images/f/fb/Los_Angeles_Chargers_logo.png/revision/latest?cb=20200326231153" },
+    { "name": "Miami Dolphins", "img": "https://static.wikia.nocookie.net/collegefootballmania/images/5/57/Miami_Dolphins-logo.png/revision/latest?cb=20180524221850" },
+    { "name": "New England Patriots", "img": "https://static.wikia.nocookie.net/collegefootballmania/images/2/24/NFL-AFC-2000-present-New_England_Patriots_logo.png/revision/latest/scale-to-width-down/1000?cb=20210821043254" },
+    { "name": "New York Jets", "img": "https://static.wikia.nocookie.net/collegefootballmania/images/3/3a/New_York_Jets_logo.png/revision/latest/scale-to-width-down/1000?cb=20190405171623" },
+    { "name": "Pittsburgh Steelers", "img": "https://static.wikia.nocookie.net/collegefootballmania/images/8/8c/Steelers_Mainlogo.png/revision/latest?cb=20120511193953" },
+    { "name": "Tennessee Titans", "img": "https://static.wikia.nocookie.net/collegefootballmania/images/4/42/Tennessee_Titans.png/revision/latest/scale-to-width-down/1000?cb=20230816044410" }
+  ]
+}
