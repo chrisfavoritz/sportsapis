@@ -1,0 +1,19 @@
+{
+  "items": [
+    { "name": "Denver Nuggets", "img": "https://static.wikia.nocookie.net/nba/images/1/1f/Denver_Nuggets_logo.png/revision/latest?cb=20180607211443" },
+    { "name": "Minnesota Timberwolves", "img": "https://static.wikia.nocookie.net/nba/images/b/b6/MinnesotaTimberwolves.png/revision/latest/scale-to-width-down/1000?cb=20220711045027" },
+    { "name": "Oklahoma City Thunder", "img": "https://static.wikia.nocookie.net/nba/images/b/b0/Oklahoma_City_Thunder.png/revision/latest/scale-to-width-down/1000?cb=20220711042432" },
+    { "name": "Portland Trail Blazers", "img": "https://static.wikia.nocookie.net/nba/images/5/5f/Portland_Trail_Blazers.png/revision/latest/scale-to-width-down/1000?cb=20220711043139" },
+    { "name": "Utah Jazz", "img": "https://static.wikia.nocookie.net/nba/images/9/96/Utah_Jazz_2022_logo.png/revision/latest?cb=20221231070733" },
+    { "name": "Golden State Warriors", "img": "https://static.wikia.nocookie.net/nba/images/0/0f/Golden_State_Warriors_logo.png/revision/latest/scale-to-width-down/1000?cb=20220711044225" },
+    { "name": "Los Angeles Clippers", "img": "https://static.wikia.nocookie.net/nba/images/2/2c/Los_Angeles_Clippers_logo.png/revision/latest/scale-to-width-down/1000?cb=20220716064159" },
+    { "name": "Los Angeles Lakers", "img": "https://static.wikia.nocookie.net/nba/images/8/8d/LA_Lakers_logo.png/revision/latest/scale-to-width-down/1000?cb=20220711042709" },
+    { "name": "Phoenix Suns", "img": "https://static.wikia.nocookie.net/nba/images/f/f3/Phoenix_Suns_logo.png/revision/latest/scale-to-width-down/1000?cb=20220716065115" },
+    { "name": "Sacramento Kings", "img": "https://static.wikia.nocookie.net/nba/images/a/a1/Sacramento_Kings_logo.png/revision/latest?cb=20200503074155" },
+    { "name": "Dallas Mavericks", "img": "https://static.wikia.nocookie.net/nba/images/0/0c/Dallas_Mavericks_logo.png/revision/latest/scale-to-width-down/1000?cb=20220711045205" },
+    { "name": "Houston Rockets", "img": "https://static.wikia.nocookie.net/nba/images/b/b9/Houston_Rockets_logo.png/revision/latest?cb=20220711045319" },
+    { "name": "Memphis Grizzlies", "img": "https://static.wikia.nocookie.net/nba/images/f/f2/Memphis_Logo.png/revision/latest/scale-to-width-down/1000?cb=20220711043312" },
+    { "name": "New Orleans Pelicans", "img": "https://static.wikia.nocookie.net/nba/images/3/33/New_Orleans_Pelicans_logo_%282023%29.png/revision/latest?cb=20230905053005" },
+    { "name": "San Antonio Spurs", "img": "https://static.wikia.nocookie.net/nba/images/c/c3/San_Antonio_Spurs.png/revision/latest/scale-to-width-down/1000?cb=20220711045650" }
+  ]
+}
