@@ -1,0 +1,9 @@
+{
+  "items": [
+    { "name": "Arizona Diamondbacks", "img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/ari.png" },
+    { "name": "Colorado Rockies", "img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/col.png" },
+    { "name": "Los Angeles Dodgers", "img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/la.png" },
+    { "name": "San Diego Padres", "img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/sd.png" },
+    { "name": "San Francisco Giants", "img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/sf.png" }
+  ]
+}
