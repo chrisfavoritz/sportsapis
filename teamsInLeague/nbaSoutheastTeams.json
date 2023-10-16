@@ -1,0 +1,9 @@
+{
+  "items": [
+   { "name": "Atlanta Hawks", "img": "https://static.wikia.nocookie.net/nba/images/7/7d/AtlantaHawksNewLogo.png/revision/latest/scale-to-width-down/1000?cb=20210514022113" },
+    { "name": "Charlotte Hornets", "img": "https://static.wikia.nocookie.net/nba/images/7/74/Charlotte_Hornets_new_logo.png/revision/latest/scale-to-width-down/1000?cb=20220711042839" },
+    { "name": "Miami Heat", "img": "https://static.wikia.nocookie.net/nba/images/8/85/Miami_Heat.png/revision/latest/scale-to-width-down/1000?cb=20220711042538" },
+    { "name": "Orlando Magic", "img": "https://static.wikia.nocookie.net/nba/images/1/13/OrlandoMagicLogo.png/revision/latest/scale-to-width-down/1000?cb=20220711184404" },
+    { "name": "Washington Wizards", "img": "https://static.wikia.nocookie.net/nba/images/f/ff/WashingtonWizardslogo.png/revision/latest/scale-to-width-down/1000?cb=20220711044840" }
+  ]
+}
