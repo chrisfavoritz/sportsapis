@@ -1,0 +1,12 @@
+{
+  "items": [
+    { "name": "Boston Bruins", "img": "https://a.espncdn.com/i/teamlogos/nhl/500/bos.png" },
+    { "name": "Buffalo Sabres", "img": "https://a.espncdn.com/i/teamlogos/nhl/500/buf.png" },
+    { "name": "Detroit Red Wings", "img": "https://a.espncdn.com/i/teamlogos/nhl/500/det.png" },
+    { "name": "Florida Panthers", "img": "https://a.espncdn.com/i/teamlogos/nhl/500/fla.png" },
+    { "name": "Montreal Canadiens", "img": "https://a.espncdn.com/i/teamlogos/nhl/500/mon.png" },
+    { "name": "Ottawa Senators", "img": "https://a.espncdn.com/i/teamlogos/nhl/500/ott.png" },
+    { "name": "Tampa Bay Lightning", "img": "https://a.espncdn.com/i/teamlogos/nhl/500/tb.png" },
+    { "name": "Toronto Maple Leafs", "img": "https://a.espncdn.com/i/teamlogos/nhl/500/tor.png" }
+  ]
+}
