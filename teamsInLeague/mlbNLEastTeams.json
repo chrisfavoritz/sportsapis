@@ -1,0 +1,9 @@
+{
+  "items": [
+    { "name": "Atlanta Braves", "img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/atl.png" },
+    { "name": "Miami Marlins", "img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/mia.png" },
+    { "name": "New York Mets", "img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/nym.png" },
+    { "name": "Philadelphia Phillies", "img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/phi.png" },
+    { "name": "Washington Nationals", "img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/was.png" }
+  ]
+}
