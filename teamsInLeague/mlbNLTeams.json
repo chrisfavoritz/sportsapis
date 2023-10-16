@@ -1,0 +1,19 @@
+{
+  "items": [
+    { "name": "Atlanta Braves", "img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/atl.png" },
+    { "name": "Miami Marlins", "img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/mia.png" },
+    { "name": "New York Mets", "img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/nym.png" },
+    { "name": "Philadelphia Phillies", "img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/phi.png" },
+    { "name": "Washington Nationals", "img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/was.png" },
+    { "name": "Chicago Cubs", "img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/chc.png" },
+    { "name": "Cincinnati Reds", "img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/cin.png" },
+    { "name": "Milwaukee Brewers", "img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/mil.png" },
+    { "name": "Pittsburgh Pirates", "img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/pit.png" },
+    { "name": "St. Louis Cardinals", "img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/stl.png" },
+    { "name": "Arizona Diamondbacks", "img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/ari.png" },
+    { "name": "Colorado Rockies", "img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/col.png" },
+    { "name": "Los Angeles Dodgers", "img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/la.png" },
+    { "name": "San Diego Padres", "img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/sd.png" },
+    { "name": "San Francisco Giants", "img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/sf.png" }
+  ]
+}
