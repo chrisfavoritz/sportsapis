@@ -1,0 +1,9 @@
+{
+  "items": [
+    { "name": "Stephen Curry", "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/201939.png" },
+    { "name": "Luka Dončić", "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629029.png" },
+    { "name": "Nikola Jokić", "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/203999.png" },
+    { "name": "LeBron James", "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/2544.png" },
+    { "name": "Zion Williamson", "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629627.png" }
+  ]
+}
