@@ -1,0 +1,9 @@
+{
+  "items": [
+    { "name": "Chicago Cubs", "img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/chc.png" },
+    { "name": "Cincinnati Reds", "img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/cin.png" },
+    { "name": "Milwaukee Brewers", "img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/mil.png" },
+    { "name": "Pittsburgh Pirates", "img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/pit.png" },
+    { "name": "St. Louis Cardinals", "img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/stl.png" }
+  ]
+}
