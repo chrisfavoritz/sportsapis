@@ -1,0 +1,12 @@
+{
+  "items": [
+    { "name": "Arizona Coyotes", "img": "https://a.espncdn.com/i/teamlogos/nhl/500/ari.png" },
+    { "name": "Chicago Blackhawks", "img": "https://a.espncdn.com/i/teamlogos/nhl/500/chi.png" },
+    { "name": "Colorado Avalanche", "img": "https://a.espncdn.com/i/teamlogos/nhl/500/col.png" },
+    { "name": "Dallas Stars", "img": "https://a.espncdn.com/i/teamlogos/nhl/500/dal.png" },
+    { "name": "Minnesota Wild", "img": "https://a.espncdn.com/i/teamlogos/nhl/500/min.png" },
+    { "name": "Nashville Predators", "img": "https://a.espncdn.com/i/teamlogos/nhl/500/nsh.png" },
+    { "name": "St. Louis Blues", "img": "https://a.espncdn.com/i/teamlogos/nhl/500/stl.png" },
+    { "name": "Winnipeg Jets", "img": "https://a.espncdn.com/i/teamlogos/nhl/500/wpg.png" }
+  ]
+}
