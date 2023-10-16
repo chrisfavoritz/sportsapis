@@ -1,0 +1,20 @@
+{
+  "items": [
+    { "name": "Arizona Coyotes", "img": "https://a.espncdn.com/i/teamlogos/nhl/500/ari.png" },
+    { "name": "Chicago Blackhawks", "img": "https://a.espncdn.com/i/teamlogos/nhl/500/chi.png" },
+    { "name": "Colorado Avalanche", "img": "https://a.espncdn.com/i/teamlogos/nhl/500/col.png" },
+    { "name": "Dallas Stars", "img": "https://a.espncdn.com/i/teamlogos/nhl/500/dal.png" },
+    { "name": "Minnesota Wild", "img": "https://a.espncdn.com/i/teamlogos/nhl/500/min.png" },
+    { "name": "Nashville Predators", "img": "https://a.espncdn.com/i/teamlogos/nhl/500/nsh.png" },
+    { "name": "St. Louis Blues", "img": "https://a.espncdn.com/i/teamlogos/nhl/500/stl.png" },
+    { "name": "Winnipeg Jets", "img": "https://a.espncdn.com/i/teamlogos/nhl/500/wpg.png" },
+    { "name": "Anaheim Ducks", "img": "https://a.espncdn.com/i/teamlogos/nhl/500/ana.png" },
+    { "name": "Calgary Flames", "img": "https://a.espncdn.com/i/teamlogos/nhl/500/cgy.png" },
+    { "name": "Edmonton Oilers", "img": "https://a.espncdn.com/i/teamlogos/nhl/500/edm.png" },
+    { "name": "Los Angeles Kings", "img": "https://a.espncdn.com/i/teamlogos/nhl/500/la.png" },
+    { "name": "San Jose Sharks", "img": "https://a.espncdn.com/i/teamlogos/nhl/500/sj.png" },
+    { "name": "Seattle Kraken", "img": "https://a.espncdn.com/i/teamlogos/nhl/500/sea.png" },
+    { "name": "Vancouver Canucks", "img": "https://a.espncdn.com/i/teamlogos/nhl/500/van.png" },
+    { "name": "Vegas Golden Knights", "img": "https://a.espncdn.com/i/teamlogos/nhl/500/vgk.png" }
+  ]
+}
