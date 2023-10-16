@@ -1,0 +1,9 @@
+{
+  "items": [
+    { "name": "Chicago White Sox", "img": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/chw.png" },
+    { "name": "Cleveland Guardians", "img": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/cle.png" },
+    { "name": "Detroit Tigers", "img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/det.png" },
+    { "name": "Kansas City Royals", "img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/kan.png" },
+    { "name": "Minnesota Twins", "img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/min.png" }
+  ]
+}
