@@ -1,0 +1,12 @@
+{
+  "items": [
+    { "name": "Anaheim Ducks", "img": "https://a.espncdn.com/i/teamlogos/nhl/500/ana.png" },
+    { "name": "Calgary Flames", "img": "https://a.espncdn.com/i/teamlogos/nhl/500/cgy.png" },
+    { "name": "Edmonton Oilers", "img": "https://a.espncdn.com/i/teamlogos/nhl/500/edm.png" },
+    { "name": "Los Angeles Kings", "img": "https://a.espncdn.com/i/teamlogos/nhl/500/la.png" },
+    { "name": "San Jose Sharks", "img": "https://a.espncdn.com/i/teamlogos/nhl/500/sj.png" },
+    { "name": "Seattle Kraken", "img": "https://a.espncdn.com/i/teamlogos/nhl/500/sea.png" },
+    { "name": "Vancouver Canucks", "img": "https://a.espncdn.com/i/teamlogos/nhl/500/van.png" },
+    { "name": "Vegas Golden Knights", "img": "https://a.espncdn.com/i/teamlogos/nhl/500/vgk.png" }
+  ]
+}
