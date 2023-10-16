@@ -1,0 +1,9 @@
+{
+  "items": [
+    { "name": "Dallas Mavericks", "img": "https://static.wikia.nocookie.net/nba/images/0/0c/Dallas_Mavericks_logo.png/revision/latest/scale-to-width-down/1000?cb=20220711045205" },
+    { "name": "Houston Rockets", "img": "https://static.wikia.nocookie.net/nba/images/b/b9/Houston_Rockets_logo.png/revision/latest?cb=20220711045319" },
+    { "name": "Memphis Grizzlies", "img": "https://static.wikia.nocookie.net/nba/images/f/f2/Memphis_Logo.png/revision/latest/scale-to-width-down/1000?cb=20220711043312" },
+    { "name": "New Orleans Pelicans", "img": "https://static.wikia.nocookie.net/nba/images/3/33/New_Orleans_Pelicans_logo_%282023%29.png/revision/latest?cb=20230905053005" },
+    { "name": "San Antonio Spurs", "img": "https://static.wikia.nocookie.net/nba/images/c/c3/San_Antonio_Spurs.png/revision/latest/scale-to-width-down/1000?cb=20220711045650" }
+  ]
+}
