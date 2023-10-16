@@ -1,0 +1,20 @@
+{
+  "items": [
+    { "name": "Arizona Cardinals", "img": "https://static.wikia.nocookie.net/collegefootballmania/images/f/fa/Arizona_Cardinals.png/revision/latest/scale-to-width-down/1000?cb=20230816045030" },
+    { "name": "Atlanta Falcons", "img": "https://static.wikia.nocookie.net/collegefootballmania/images/b/b6/Atlanta_Falcons.png/revision/latest/scale-to-width-down/1000?cb=20230816044106" },
+    { "name": "Carolina Panthers", "img": "https://static.wikia.nocookie.net/collegefootballmania/images/e/e0/Carolina_Panthers.png/revision/latest/scale-to-width-down/1000?cb=20230816044500" },
+    { "name": "Chicago Bears", "img": "https://static.wikia.nocookie.net/collegefootballmania/images/f/f7/Chicago_Bears_Primary_Logo_-_Bear_Head.png/revision/latest/scale-to-width-down/1000?cb=20230815024409" },
+    { "name": "Dallas Cowboys", "img": "https://static.wikia.nocookie.net/collegefootballmania/images/f/f4/Dallas_Cowboys.svg.png/revision/latest?cb=20160212055212" },
+    { "name": "Detroit Lions", "img": "https://static.wikia.nocookie.net/collegefootballmania/images/6/67/Detroit_Lions.png/revision/latest/scale-to-width-down/1000?cb=20230816044849" },
+    { "name": "Green Bay Packers", "img": "https://static.wikia.nocookie.net/collegefootballmania/images/2/23/Green_Bay_Packers_logo.png/revision/latest?cb=20180415205012" },
+    { "name": "Los Angeles Rams", "img": "https://static.wikia.nocookie.net/collegefootballmania/images/d/d3/NFL-NFCW-LA_Rams_2020_logo.png/revision/latest/scale-to-width-down/1000?cb=20201011185144" },
+    { "name": "Minnesota Vikings", "img": "https://static.wikia.nocookie.net/collegefootballmania/images/f/f8/Minnesota_Vikings.png/revision/latest/scale-to-width-down/1000?cb=20230815025926" },
+    { "name": "New Orleans Saints", "img": "https://static.wikia.nocookie.net/collegefootballmania/images/5/5e/Saints-logo-fleur-de-lis-730028.jpg/revision/latest?cb=20111129165626" },
+    { "name": "New York Giants", "img": "https://static.wikia.nocookie.net/collegefootballmania/images/2/2e/NY_Giants_NewLogo_2000.gif/revision/latest?cb=20120305150850" },
+    { "name": "Philadelphia Eagles", "img": "https://static.wikia.nocookie.net/collegefootballmania/images/5/55/500px-Philadelphia_Eagles_primary_logo.svg.png/revision/latest?cb=20130113221735" },
+    { "name": "San Francisco 49ers", "img": "https://static.wikia.nocookie.net/collegefootballmania/images/d/d6/SanFrancisco49ers_1000.png/revision/latest?cb=20120303171341" },
+    { "name": "Seattle Seahawks", "img": "https://static.wikia.nocookie.net/collegefootballmania/images/c/c1/580px-NFL_NFCW_Logo_SEA.png/revision/latest?cb=20120508061011" },
+    { "name": "Tampa Bay Buccaneers", "img": "https://static.wikia.nocookie.net/collegefootballmania/images/9/92/NFL-NFCS-2020_TB_Bucs_logo.png/revision/latest?cb=20200414053538" },
+    { "name": "Washington Commanders", "img": "https://static.wikia.nocookie.net/collegefootballmania/images/b/b9/NFL-NFC-Washington_Commanders_logo.png/revision/latest/scale-to-width-down/1000?cb=20220205040855" }
+  ]
+}
