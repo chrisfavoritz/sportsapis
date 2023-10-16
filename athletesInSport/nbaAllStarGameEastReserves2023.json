@@ -1,0 +1,12 @@
+{
+  "items": [
+    { "name": "Jaylen Brown", "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627759.png" },
+    { "name": "DeMar DeRozan", "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/201942.png" },
+    { "name": "Tyrese Haliburton", "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630169.png" },
+    { "name": "Jrue Holiday", "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/201950.png" },
+    { "name": "Julius Randle", "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/203944.png" },
+    { "name": "Bam Adebayo", "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628389.png" },
+    { "name": "Joel Embiid", "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/203954.png" },
+    { "name": "Pascal Siakam", "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627783.png" }
+  ]
+}
