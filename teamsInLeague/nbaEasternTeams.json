@@ -1,0 +1,19 @@
+{
+  "items": [
+    { "name": "Boston Celtics", "img": "https://static.wikia.nocookie.net/nba/images/8/8b/BostonCelticsLogo.png/revision/latest/scale-to-width-down/1000?cb=20220706051855" },
+    { "name": "Brooklyn Nets", "img": "https://static.wikia.nocookie.net/nba/images/2/28/Brooklyn_Nets_logo.png/revision/latest/scale-to-width-down/1000?cb=20220711043939" },
+    { "name": "New York Knicks", "img": "https://static.wikia.nocookie.net/nba/images/b/bd/New_York_Knicks_logo.png/revision/latest/scale-to-width-down/1000?cb=20230423023303" },
+    { "name": "Philadelphia 76ers", "img": "https://static.wikia.nocookie.net/nba/images/4/40/Philadelphia76erslogo.png/revision/latest/scale-to-width-down/1000?cb=20230423023139" },
+    { "name": "Toronto Raptors", "img": "https://static.wikia.nocookie.net/nba/images/d/df/TorontoRaptorsNewLogo.png/revision/latest/scale-to-width-down/1000?cb=20210419203550" },
+    { "name": "Chicago Bulls", "img": "https://static.wikia.nocookie.net/nba/images/b/be/Chicago_Bulls.png/revision/latest/scale-to-width-down/1000?cb=20220711044124" },
+    { "name": "Cleveland Cavaliers", "img": "https://static.wikia.nocookie.net/nba/images/8/83/Cleveland_Cavaliers_logo_%282022%29.png/revision/latest?cb=20220607085424" },
+    { "name": "Detroit Pistons", "img": "https://static.wikia.nocookie.net/nba/images/f/f2/Detroit_Pistons.png/revision/latest/scale-to-width-down/1000?cb=20220711044325" },
+    { "name": "Indiana Pacers", "img": "https://static.wikia.nocookie.net/nba/images/5/55/IndianaPacersRound.png/revision/latest/scale-to-width-down/1000?cb=20200503074031" },
+    { "name": "Milwaukee Bucks", "img": "https://static.wikia.nocookie.net/nba/images/b/b4/MilwaukeeBucksnewlogo.png/revision/latest/scale-to-width-down/1000?cb=20220711043707" },
+    { "name": "Atlanta Hawks", "img": "https://static.wikia.nocookie.net/nba/images/7/7d/AtlantaHawksNewLogo.png/revision/latest/scale-to-width-down/1000?cb=20210514022113" },
+    { "name": "Charlotte Hornets", "img": "https://static.wikia.nocookie.net/nba/images/7/74/Charlotte_Hornets_new_logo.png/revision/latest/scale-to-width-down/1000?cb=20220711042839" },
+    { "name": "Miami Heat", "img": "https://static.wikia.nocookie.net/nba/images/8/85/Miami_Heat.png/revision/latest/scale-to-width-down/1000?cb=20220711042538" },
+    { "name": "Orlando Magic", "img": "https://static.wikia.nocookie.net/nba/images/1/13/OrlandoMagicLogo.png/revision/latest/scale-to-width-down/1000?cb=20220711184404" },
+    { "name": "Washington Wizards", "img": "https://static.wikia.nocookie.net/nba/images/f/ff/WashingtonWizardslogo.png/revision/latest/scale-to-width-down/1000?cb=20220711044840" }
+  ]
+}
