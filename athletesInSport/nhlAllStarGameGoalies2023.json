@@ -1,0 +1,12 @@
+{
+  "items": [
+    { "name": "Igor Shesterkin", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3151297.png" },
+    { "name": "Ilya Sorokin", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3151981.png" },
+    { "name": "Andrei Vasilevskiy", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/2976847.png" },
+    { "name": "Linus Ullmark", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3069285.png" },
+    { "name": "Connor Hellebuyck", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3020225.png" },
+    { "name": "Juuse Saros", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3042109.png" },
+    { "name": "Stuart Skinner", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4268767.png" },
+    { "name": "Logan Thompson", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4272888.png" }
+  ]
+}
