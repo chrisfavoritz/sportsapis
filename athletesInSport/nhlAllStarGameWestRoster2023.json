@@ -1,0 +1,27 @@
+{
+  "items": [
+    { "name": "Kirill Kaprizov", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3942335.png" },
+    { "name": "Clayton Keller", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4024857.png" },
+    { "name": "Nathan MacKinnon", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3041969.png" },
+    { "name": "Mikko Rantanen", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3899938.png" },
+    { "name": "Jason Robertson", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4233875.png" },
+    { "name": "Vladimir Tarasenko", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/5837.png" },
+    { "name": "Seth Jones", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3041992.png" },
+    { "name": "Cale Makar", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4233563.png" },
+    { "name": "Josh Morrissey", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3042016.png" },
+    { "name": "Connor Hellebuyck", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3020225.png" },
+    { "name": "Juuse Saros", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3042109.png" },
+    { "name": "Leon Draisaitl", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3114727.png" },
+    { "name": "Kevin Fiala", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3114743.png" },
+    { "name": "Bo Horvat", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3042002.png" },
+    { "name": "Nazem Kadri", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/5349.png" },
+    { "name": "Connor McDavid", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3895074.png" },
+    { "name": "Elias Pettersson", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4233566.png" },
+    { "name": "Chandler Stephenson", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3067858.png" },
+    { "name": "Troy Terry", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3942905.png" },
+    { "name": "Erik Karlsson", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/5164.png" },
+    { "name": "Stuart Skinner", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4268767.png" },
+    { "name": "Logan Thompson", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4272888.png" },
+    { "name": "Matty Beniers", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4781552.png" }
+  ]
+}
