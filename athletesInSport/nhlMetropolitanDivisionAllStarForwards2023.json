@@ -1,0 +1,12 @@
+{
+  "items": [
+    { "name": "Sidney Crosby", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3114.png" },
+    { "name": "Johnny Gaudreau", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/2563039.png" },
+    { "name": "Kevin Hayes", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/5767.png" },
+    { "name": "Jack Hughes", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4565222.png" },
+    { "name": "Brock Nelson", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/5798.png" },
+    { "name": "Alex Ovechkin", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3101.png" },
+    { "name": "Artemi Panarin", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3891952.png" },
+    { "name": "Andrei Svechnikov", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4352683.png" }
+  ]
+}
