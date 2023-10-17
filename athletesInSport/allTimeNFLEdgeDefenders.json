@@ -1,13 +1,10 @@
 {
   "items": [
-    { "name": "Reggie White", "img": "placeholder" },
-    { "name": "Lawrence Taylor", "img": "placeholder" },
-    { "name": "Bruce Smith", "img": "placeholder" },
-    { "name": "Deacon Jones", "img": "placeholder" },
-    { "name": "Derrick Thomas", "img": "placeholder" },
-    { "name": "J.J. Watt", "img": "placeholder" },
-    { "name": "Khalil Mack", "img": "placeholder" },
-    { "name": "Von Miller", "img": "placeholder" },
+    { "name": "Reggie White", "img": "https://static.www.nfl.com/image/private/t_player_profile_landscape/f_auto/league/lfytkhrgngqi3bk0mlra" },
+    { "name": "Bruce Smith", "img": "https://static.www.nfl.com/image/private/t_player_profile_landscape/f_auto/league/z1isuze9urlmeriqctgo" },
+    { "name": "Deacon Jones", "img": "https://scfootballhof.org/wp-content/uploads/2019/08/deacon_jones_1969_11_30-content-photo.png" },
+    { "name": "J.J. Watt", "img": "https://static.www.nfl.com/image/private/t_player_profile_landscape/f_auto/league/pooulgm7mdcx5x9gza7l" },
+
     { "name": "Richard Dent", "img": "placeholder" },
     { "name": "Julius Peppers", "img": "placeholder" },
     { "name": "Charles Haley", "img": "placeholder" },
