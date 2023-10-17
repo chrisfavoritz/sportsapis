@@ -1,0 +1,28 @@
+{
+  "items": [
+    { "name": "Sidney Crosby", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3114.png" },
+    { "name": "Johnny Gaudreau", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/2563039.png" },
+    { "name": "Kevin Hayes", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/5767.png" },
+    { "name": "Jack Hughes", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4565222.png" },
+    { "name": "Brock Nelson", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/5798.png" },
+    { "name": "Alex Ovechkin", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3101.png" },
+    { "name": "Artemi Panarin", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3891952.png" },
+    { "name": "Andrei Svechnikov", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4352683.png" },
+    { "name": "Adam Fox", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4197146.png" },
+    { "name": "Igor Shesterkin", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3151297.png" },
+    { "name": "Ilya Sorokin", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3151981.png" },
+    { "name": "Aleksander Barkov", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3041970.png" },
+    { "name": "Nikita Kucherov", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/2563060.png" },
+    { "name": "Dylan Larkin", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3114755.png" },
+    { "name": "Mitchell Marner", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3899937.png" },
+    { "name": "David Pastrnak", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3114778.png" },
+    { "name": "Nick Suzuki", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4233594.png" },
+    { "name": "Brady Tkachuk", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4319858.png" },
+    { "name": "Matthew Tkachuk", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4024854.png" },
+    { "name": "Rasmus Dahlin", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4294163.png" },
+    { "name": "Andrei Vasilevskiy", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/2976847.png" },
+    { "name": "Linus Ullmark", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3069285.png" },
+    { "name": "Auston Matthews", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4024123.png" },
+    { "name": "Tage Thompson", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4024988.png" }
+  ]
+}
