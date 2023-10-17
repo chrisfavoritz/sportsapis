@@ -1,10 +1,10 @@
 {
   "items": [
-    { "name": "Lawrence Taylor", "img": "placeholder" },
+    { "name": "Lawrence Taylor", "img": "https://static.www.nfl.com/image/private/t_player_profile_landscape/f_auto/league/iecfuykbns6xh1znmd9c" },
     { "name": "Ray Lewis", "img": "placeholder" },
     { "name": "Dick Butkus", "img": "placeholder" },
     { "name": "Mike Singletary", "img": "placeholder" },
-    { "name": "Derrick Thomas", "img": "placeholder" },
+    { "name": "Derrick Thomas", "img": "https://static.www.nfl.com/image/private/t_player_profile_landscape/f_auto/league/hc6lml7eziwksy7ng5ot" },
     { "name": "Junior Seau", "img": "placeholder" },
     { "name": "Jack Lambert", "img": "placeholder" },
     { "name": "Ray Nitschke", "img": "placeholder" },
@@ -24,6 +24,7 @@
     { "name": "Carl Banks", "img": "placeholder" },
     { "name": "Kevin Greene", "img": "placeholder" },
     { "name": "DeMarcus Ware", "img": "placeholder" },
+    { "name": "Khalil Mack", "img": "https://static.www.nfl.com/image/private/t_player_profile_landscape/f_auto/league/hkxmcpv1vobtydr4yt7n" },
     { "name": "Tedy Bruschi", "img": "placeholder" }
   ]
 }
