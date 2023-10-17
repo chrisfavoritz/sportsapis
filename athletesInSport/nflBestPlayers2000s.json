@@ -1,6 +1,6 @@
 {
   "items": [
-     { "name": "Tom Brady", "img": "https://static.www.nfl.com/image/private/t_player_profile_landscape/f_auto/league/q7dpdlxyu5rs05rgh1le" },
+    { "name": "Tom Brady", "img": "https://static.www.nfl.com/image/private/t_player_profile_landscape/f_auto/league/q7dpdlxyu5rs05rgh1le" },
     { "name": "Peyton Manning", "img": "https://static.www.nfl.com/image/private/t_player_profile_landscape/f_auto/league/xpcd6auodk3w0vda6jal" },
     { "name": "Ray Lewis", "img": "https://static.www.nfl.com/image/private/t_player_profile_landscape/f_auto/league/syd5vzbllkhjuwbjuiue" },
     { "name": "LaDainian Tomlinson", "img": "https://static.www.nfl.com/image/private/t_player_profile_landscape/f_auto/league/fdraejwoowicuevalpne" },
