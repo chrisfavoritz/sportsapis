@@ -1,0 +1,15 @@
+{
+  "items": [
+    { "name": "Chelsea Gray", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/wnba/players/full/2529122.png&w=350&h=254" },
+    { "name": "Jackie Young", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/wnba/players/full/4065870.png&w=350&h=254" },
+    { "name": "Arike Ogunbowale", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/wnba/players/full/3904577.png&w=350&h=254" },
+    { "name": "Kelsey Plum", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/wnba/players/full/3065570.png&w=350&h=254" },
+    { "name": "Allisha Gray", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/wnba/players/full/3058901.png&w=350&h=254" },
+    { "name": "Rhyne Howard", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/wnba/players/full/4398674.png&w=350&h=254" },
+    { "name": "Jewell Loyd", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/wnba/players/full/2987869.png&w=350&h=254" },
+    { "name": "Courtney Vandersloot", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/wnba/players/full/981.png&w=350&h=254" },
+    { "name": "Sabrina Ionescu", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/wnba/players/full/4066533.png&w=350&h=254" },
+    { "name": "Kelsey Mitchell", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/wnba/players/full/3142191.png&w=350&h=254" },
+    { "name": "Kahleah Copper", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/wnba/players/full/2998938.png&w=350&h=254" }
+  ]
+}
