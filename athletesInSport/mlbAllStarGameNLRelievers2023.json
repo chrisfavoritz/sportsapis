@@ -1,0 +1,10 @@
+{
+  "items": [
+    { "name": "Alexis Díaz", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/664747/headshot/67/current" },
+    { "name": "Josh Hader", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/623352/headshot/67/current" },
+    { "name": "Devin Williams", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/642207/headshot/67/current" },
+    { "name": "Camilo Doval", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/666808/headshot/67/current" },
+    { "name": "David Bednar", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/670280/headshot/67/current" },
+    { "name": "Craig Kimbrel", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/518886/headshot/67/current" }
+  ]
+}
