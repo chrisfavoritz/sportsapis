@@ -1,14 +1,14 @@
 {
   "items": [
-    { "name": "Tiger Woods", "img": "placeholder" },
-    { "name": "Greg Norman", "img": "placeholder" },
-    { "name": "Nick Price", "img": "placeholder" },
-    { "name": "Fred Couples", "img": "placeholder" },
-    { "name": "Nick Faldo", "img": "placeholder" },
-    { "name": "Ernie Els", "img": "placeholder" },
-    { "name": "Tom Lehman", "img": "placeholder" },
-    { "name": "Vijay Singh", "img": "placeholder" },
-    { "name": "Corey Pavin", "img": "placeholder" },
-    { "name": "Payne Stewart", "img": "placeholder" }
+    { "name": "Tiger Woods", "img": "https://pga-tour-res.cloudinary.com/image/upload/c_fill,g_face:center,q_auto,f_auto,dpr_2.0,h_700,w_560,d_stub:default_avatar_light.png/headshots_08793.jpg" },
+    { "name": "Vijay Singh", "img": "https://pga-tour-res.cloudinary.com/image/upload/c_fill,g_face:center,q_auto,f_auto,dpr_2.0,h_700,w_560,d_stub:default_avatar_light.png/headshots_06567.jpg" },
+    { "name": "Ernie Els", "img": "https://pga-tour-res.cloudinary.com/image/upload/c_fill,g_face:center,q_auto,f_auto,dpr_2.0,h_700,w_560,d_stub:default_avatar_light.png/headshots_06522.jpg" },
+    { "name": "Greg Norman", "img": "https://pga-tour-res.cloudinary.com/image/upload/c_fill,g_face:center,q_auto,f_auto,dpr_2.0,h_700,w_560,d_stub:default_avatar_light.png/headshots_01876.jpg" },
+    { "name": "Nick Price", "img": "https://pga-tour-res.cloudinary.com/image/upload/c_fill,g_face:center,q_auto,f_auto,dpr_2.0,h_700,w_560,d_stub:default_avatar_light.png/headshots_01968.jpg" },
+    { "name": "Fred Couples", "img": "https://pga-tour-res.cloudinary.com/image/upload/c_fill,g_face:center,q_auto,f_auto,dpr_2.0,h_700,w_560,d_stub:default_avatar_light.png/headshots_01226.jpg" },
+    { "name": "Nick Faldo", "img": "https://pga-tour-res.cloudinary.com/image/upload/c_fill,g_face:center,q_auto,f_auto,dpr_2.0,h_700,w_560,d_stub:default_avatar_light.png/headshots_01326.jpg" },
+    { "name": "Tom Lehman", "img": "https://pga-tour-res.cloudinary.com/image/upload/c_fill,g_face:center,q_auto,f_auto,dpr_2.0,h_700,w_560,d_stub:default_avatar_light.png/headshots_01677.jpg" },
+    { "name": "Corey Pavin", "img": "https://pga-tour-res.cloudinary.com/image/upload/c_fill,g_face:center,q_auto,f_auto,dpr_2.0,h_700,w_560,d_stub:default_avatar_light.png/headshots_01928.jpg" },
+    { "name": "Payne Stewart", "img": "https://pga-tour-res.cloudinary.com/image/upload/c_fill,g_face:center,q_auto,f_auto,dpr_2.0,h_700,w_560,d_stub:default_avatar_light.png/headshots_02146.jpg" }
   ]
 }
