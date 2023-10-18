@@ -1,0 +1,16 @@
+{
+  "items": [
+    { "name": "Shohei Ohtani", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/660271/headshot/67/current" },
+    { "name": "Gerrit Cole", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/543037/headshot/67/current" },
+    { "name": "Luis Castillo", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/622491/headshot/67/current" },
+    { "name": "Sonny Gray", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/543243/headshot/67/current" },
+    { "name": "Nathan Eovaldi", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/543135/headshot/67/current" },
+    { "name": "Kevin Gausman", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/592332/headshot/67/current" },
+    { "name": "Shane McClanahan", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663556/headshot/67/current" },
+    { "name": "Framber Valdez", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/664285/headshot/67/current" },
+    { "name": "Michael Lorenzen", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/547179/headshot/67/current" },
+    { "name": "George Kirby", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669923/headshot/67/current" },
+    { "name": "Pablo López", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/641154/headshot/67/current" },
+    { "name": "Jordan Romano", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605447/headshot/67/current" }
+  ]
+}
