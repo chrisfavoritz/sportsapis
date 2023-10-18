@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "name": "Dallas Wings",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Dallas_Wings_logo.svg/1200px-Dallas_Wings_logo.svg.png"
+    },
+    {
+      "name": "Las Vegas Aces",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Las_Vegas_Aces_logo.svg/1200px-Las_Vegas_Aces_logo.svg.png"
+    },
+    {
+      "name": "Los Angeles Sparks",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Los_Angeles_Sparks_logo.svg/1200px-Los_Angeles_Sparks_logo.svg.png"
+    },
+    {
+      "name": "Minnesota Lynx",
+      "img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/wnba/500/min.png"
+    },
+    {
+      "name": "Phoenix Mercury",
+      "img": "https://a.espncdn.com/i/teamlogos/wnba/500/phx.png"
+    },
+    {
+      "name": "Seattle Storm",
+      "img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/wnba/500/sea.png"
+    }
+  ]
+}
