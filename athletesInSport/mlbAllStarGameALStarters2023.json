@@ -1,0 +1,13 @@
+{
+  "items": [
+    { "name": "Jonah Heim", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/641680/headshot/67/current" },
+    { "name": "Yandy Díaz", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/650490/headshot/67/current" },
+    { "name": "Marcus Semien", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/543760/headshot/67/current" },
+    { "name": "Josh Jung", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/673962/headshot/67/current" },
+    { "name": "Corey Seager", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/608369/headshot/67/current" },
+    { "name": "Mike Trout", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/545361/headshot/67/current" },
+    { "name": "Randy Arozarena", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/668227/headshot/67/current" },
+    { "name": "Aaron Judge", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/592450/headshot/67/current" },
+    { "name": "Shohei Ohtani", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/660271/headshot/67/current" }
+  ]
+}
