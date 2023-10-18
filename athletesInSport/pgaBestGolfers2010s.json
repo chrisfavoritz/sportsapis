@@ -1,14 +1,14 @@
 {
   "items": [
-    { "name": "Tiger Woods", "img": "placeholder" },
-    { "name": "Rory McIlroy", "img": "placeholder" },
-    { "name": "Jordan Spieth", "img": "placeholder" },
-    { "name": "Dustin Johnson", "img": "placeholder" },
-    { "name": "Brooks Koepka", "img": "placeholder" },
-    { "name": "Justin Thomas", "img": "placeholder" },
-    { "name": "Jason Day", "img": "placeholder" },
-    { "name": "Adam Scott", "img": "placeholder" },
-    { "name": "Phil Mickelson", "img": "placeholder" },
-    { "name": "Henrik Stenson", "img": "placeholder" }
+    { "name": "Tiger Woods", "img": "https://pga-tour-res.cloudinary.com/image/upload/c_fill,g_face:center,q_auto,f_auto,dpr_2.0,h_700,w_560,d_stub:default_avatar_light.png/headshots_08793.jpg" },
+    { "name": "Rory McIlroy", "img": "https://pga-tour-res.cloudinary.com/image/upload/c_fill,g_face:center,q_auto,f_auto,dpr_2.0,h_700,w_560,d_stub:default_avatar_light.png/headshots_28237.jpg" },
+    { "name": "Jordan Spieth", "img": "https://pga-tour-res.cloudinary.com/image/upload/c_fill,g_face:center,q_auto,f_auto,dpr_2.0,h_700,w_560,d_stub:default_avatar_light.png/headshots_34046.jpg" },
+    { "name": "Dustin Johnson", "img": "https://pga-tour-res.cloudinary.com/image/upload/c_fill,g_face:center,q_auto,f_auto,dpr_2.0,h_700,w_560,d_stub:default_avatar_light.png/headshots_30925.jpg" },
+    { "name": "Brooks Koepka", "img": "https://pga-tour-res.cloudinary.com/image/upload/c_fill,g_face:center,q_auto,f_auto,dpr_2.0,h_700,w_560,d_stub:default_avatar_light.png/headshots_36689.jpg" },
+    { "name": "Justin Thomas", "img": "https://pga-tour-res.cloudinary.com/image/upload/c_fill,g_face:center,q_auto,f_auto,dpr_2.0,h_700,w_560,d_stub:default_avatar_light.png/headshots_33448.jpg" },
+    { "name": "Jason Day", "img": "https://pga-tour-res.cloudinary.com/image/upload/c_fill,g_face:center,q_auto,f_auto,dpr_2.0,h_700,w_560,d_stub:default_avatar_light.png/headshots_28089.jpg" },
+    { "name": "Adam Scott", "img": "https://pga-tour-res.cloudinary.com/image/upload/c_fill,g_face:center,q_auto,f_auto,dpr_2.0,h_700,w_560,d_stub:default_avatar_light.png/headshots_24502.jpg" },
+    { "name": "Phil Mickelson", "img": "https://pga-tour-res.cloudinary.com/image/upload/c_fill,g_face:center,q_auto,f_auto,dpr_2.0,h_700,w_560,d_stub:default_avatar_light.png/headshots_01810.jpg" },
+    { "name": "Henrik Stenson", "img": "https://pga-tour-res.cloudinary.com/image/upload/c_fill,g_face:center,q_auto,f_auto,dpr_2.0,h_700,w_560,d_stub:default_avatar_light.png/headshots_21528.jpg" }
   ]
 }
