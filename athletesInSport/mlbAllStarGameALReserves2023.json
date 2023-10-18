@@ -1,0 +1,18 @@
+{
+  "items": [
+    { "name": "Salvador Perez", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/521692/headshot/67/current" },
+    { "name": "Adley Rutschman", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/668939/headshot/67/current" },
+    { "name": "Vladimir Guerrero Jr.", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665489/headshot/67/current" },
+    { "name": "Whit Merrifield", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/593160/headshot/67/current" },
+    { "name": "Bo Bichette", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/666182/headshot/67/current" },
+    { "name": "José Ramírez", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/608070/headshot/67/current" },
+    { "name": "Wander Franco", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/677551/headshot/67/current" },
+    { "name": "Luis Robert Jr.", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/673357/headshot/67/current" },
+    { "name": "Austin Hays", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669720/headshot/67/current" },
+    { "name": "Yordan Alvarez", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/670541/headshot/67/current" },
+    { "name": "Adolis García", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/666969/headshot/67/current" },
+    { "name": "Kyle Tucker", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663656/headshot/67/current" },
+    { "name": "Julio Rodríguez", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/677594/headshot/67/current" },
+    { "name": "Brent Rooker", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/667670/headshot/67/current" }
+  ]
+}
