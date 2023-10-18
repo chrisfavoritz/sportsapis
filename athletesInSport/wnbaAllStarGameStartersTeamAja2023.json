@@ -1,0 +1,9 @@
+{
+  "items": [
+    { "name": "A'ja Wilson", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/wnba/players/full/3149391.png&w=350&h=254" },
+    { "name": "Chelsea Gray", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/wnba/players/full/2529122.png&w=350&h=254" },
+    { "name": "Jackie Young", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/wnba/players/full/4065870.png&w=350&h=254" },
+    { "name": "Aliyah Boston", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/wnba/players/full/4432831.png&w=350&h=254" },
+    { "name": "Arike Ogunbowale", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/wnba/players/full/3904577.png&w=350&h=254" }
+  ]
+}
