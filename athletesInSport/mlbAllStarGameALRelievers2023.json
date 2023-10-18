@@ -1,0 +1,9 @@
+{
+  "items": [
+    { "name": "Kenley Jansen", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/445276/headshot/67/current" },
+    { "name": "Emmanuel Clase", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/661403/headshot/67/current" },
+    { "name": "Félix Bautista", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/642585/headshot/67/current" },
+    { "name": "Yennier Cano", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/666974/headshot/67/current" },
+    { "name": "Carlos Estévez", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/608032/headshot/67/current" }
+  ]
+}
