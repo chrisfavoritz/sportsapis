@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "name": "Atlanta Dream",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/54/Atlanta_Dream_logo.svg"
+    },
+    {
+      "name": "Chicago Sky",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Chicago_Sky_logo.svg/1200px-Chicago_Sky_logo.svg.png"
+    },
+    {
+      "name": "Connecticut Sun",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Connecticut_Sun_logo.svg/1200px-Connecticut_Sun_logo.svg.png"
+    },
+    {
+      "name": "Indiana Fever",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Indiana_Fever_logo.svg/1200px-Indiana_Fever_logo.svg.png"
+    },
+    {
+      "name": "New York Liberty",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/New_York_Liberty_logo.svg/1200px-New_York_Liberty_logo.svg.png"
+    },
+    {
+      "name": "Washington Mystics",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Washington_Mystics_logo.svg/640px-Washington_Mystics_logo.svg.png"
+    }
+  ]
+}
