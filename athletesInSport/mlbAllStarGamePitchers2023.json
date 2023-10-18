@@ -1,0 +1,27 @@
+{
+  "items": [
+    { "name": "Shohei Ohtani", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/660271/headshot/67/current" },
+    { "name": "Gerrit Cole", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/543037/headshot/67/current" },
+    { "name": "Luis Castillo", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/622491/headshot/67/current" },
+    { "name": "Sonny Gray", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/543243/headshot/67/current" },
+    { "name": "Nathan Eovaldi", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/543135/headshot/67/current" },
+    { "name": "Kevin Gausman", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/592332/headshot/67/current" },
+    { "name": "Shane McClanahan", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663556/headshot/67/current" },
+    { "name": "Framber Valdez", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/664285/headshot/67/current" },
+    { "name": "Michael Lorenzen", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/547179/headshot/67/current" },
+    { "name": "George Kirby", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669923/headshot/67/current" },
+    { "name": "Pablo López", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/641154/headshot/67/current" },
+    { "name": "Jordan Romano", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605447/headshot/67/current" },
+    { "name": "Zac Gallen", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/668678/headshot/67/current" },
+    { "name": "Spencer Strider", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/675911/headshot/67/current" },
+    { "name": "Bryce Elder", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/693821/headshot/67/current" },
+    { "name": "Justin Steele", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/657006/headshot/67/current" },
+    { "name": "Mitch Keller", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656605/headshot/67/current" },
+    { "name": "Josiah Gray", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/680686/headshot/67/current" },
+    { "name": "Clayton Kershaw", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/477132/headshot/67/current" },
+    { "name": "Marcus Stroman", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/573186/headshot/67/current" },
+    { "name": "Kodai Senga", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/673540/headshot/67/current" },
+    { "name": "Alex Cobb", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/502171/headshot/67/current" },
+    { "name": "Corbin Burnes", "img": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669203/headshot/67/current" }
+  ]
+}
