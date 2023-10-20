@@ -1,14 +1,9 @@
 {
   "items": [
-    { "name": "Demetrious Johnson", "img": "placeholder" },
-    { "name": "Henry Cejudo", "img": "placeholder" },
-    { "name": "Brandon Moreno", "img": "placeholder" },
-    { "name": "Joseph Benavidez", "img": "placeholder" },
-    { "name": "John Dodson", "img": "placeholder" },
-    { "name": "Ray Borg", "img": "placeholder" },
-    { "name": "Deiveson Figueiredo", "img": "placeholder" },
-    { "name": "Tim Elliott", "img": "placeholder" },
-    { "name": "Wilson Reis", "img": "placeholder" },
-    { "name": "Sergio Pettis", "img": "placeholder" }
+    { "name": "Demetrious Johnson", "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2018-10/JOHNSON_DEMETRIOUS_L.png?VersionId=HRDdP7nmVjZwEyiRKdzDsVlwTPEUIfm_&itok=w8-eTUeL" },
+    { "name": "Henry Cejudo", "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2023-06/CEJUDO_HENRY_L_05-06.png?itok=xgRWorSO" },
+    { "name": "Brandon Moreno", "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/MORENO_BRANDON_L_06-12.png?itok=-Gi9L7O0" },
+    { "name": "Deiveson Figueiredo", "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2023-01/FIGUEIREDO_DEIVESON_L_01-22.png?itok=f7yoq9Mq" },
+    { "name": "Alexandre Pantoja", "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2023-07/PANTOJA_ALEXANDRE_L_BELTMOCK.png?itok=UpiXeK-f" }
   ]
 }
