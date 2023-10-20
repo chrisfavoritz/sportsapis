@@ -1,11 +1,12 @@
 {
   "items": [
-    { "name": "Dominick Cruz", "img": "placeholder" },
-    { "name": "Renan Barão", "img": "placeholder" },
-    { "name": "T.J. Dillashaw", "img": "placeholder" },
-    { "name": "Cody Garbrandt", "img": "placeholder" },
-    { "name": "Henry Cejudo", "img": "placeholder" },
-    { "name": "Petr Yan", "img": "placeholder" },
-    { "name": "Aljamain Sterling", "img": "placeholder" }
+    { "name": "Dominick Cruz", "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-03/7a064993-dfca-4c8e-aca4-8268fc6e711b%252FCRUZ_DOMINICK_L_12-11.png?itok=hesZixtu" },
+    { "name": "Renan Barão", "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2018-10/BARAO_RENAN_L.png?VersionId=mXkxLQ23sgEnbww1uAfCtyUXEiNeUWpB&itok=6JbQ_CUm" },
+    { "name": "T.J. Dillashaw", "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-07/DILLASHAW_TJ_L_07-24.png?itok=iWWWrBlv" },
+    { "name": "Cody Garbrandt", "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2023-03/GARBRANDT_CODY_L_03-05.png?itok=tC8RFKx5" },
+    { "name": "Henry Cejudo", "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2023-06/CEJUDO_HENRY_L_05-06.png?itok=xgRWorSO" },
+    { "name": "Petr Yan", "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2023-03/YAN_PETR_L_03-11.png?itok=YZH4Zzjg" },
+    { "name": "Aljamain Sterling", "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/67275/profile-galery/fullbodyleft-picture/STERLING_ALJAMAIN_L.png?VersionId=aojVfCJ9UKcQjPOBXq1hras7CXyGaC31&itok=ioZTbkdy" },
+    { "name": "Sean O'Malley", "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2023-08/OMALLEY_SEAN_L_BELTMOCK.png?itok=T1J6X_70" }
   ]
 }
