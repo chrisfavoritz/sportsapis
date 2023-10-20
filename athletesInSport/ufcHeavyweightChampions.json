@@ -1,20 +1,21 @@
 {
   "items": [
-    { "name": "Mark Coleman", "img": "placeholder" },
-    { "name": "Maurice Smith", "img": "placeholder" },
-    { "name": "Randy Couture", "img": "placeholder" },
-    { "name": "Bas Rutten", "img": "placeholder" },
-    { "name": "Kevin Randleman", "img": "placeholder" },
-    { "name": "Ricco Rodriguez", "img": "placeholder" },
-    { "name": "Tim Sylvia", "img": "placeholder" },
-    { "name": "Frank Mir", "img": "placeholder" },
-    { "name": "Andrei Arlovski", "img": "placeholder" },
-    { "name": "Antonio Rodrigo Nogueira", "img": "placeholder" },
-    { "name": "Brock Lesnar", "img": "placeholder" },
-    { "name": "Cain Velasquez", "img": "placeholder" },
-    { "name": "Junior dos Santos", "img": "placeholder" },
-    { "name": "Fabricio Werdum", "img": "placeholder" },
-    { "name": "Stipe Miocic", "img": "placeholder" },
-    { "name": "Francis Ngannou", "img": "placeholder" }
+    { "name": "Mark Coleman", "img": "https://dmxg5wxfqgb4u.cloudfront.net/image/fighter_images/Mark_Coleman/Mark_Coleman_500x325.png?VersionId=RPGoIED4j40mrdhCzRdwDhYk04oPBhx5" },
+    { "name": "Maurice Smith", "img": "https://www.sherdog.com/image_crop/200/300/_images/fighter/20140922011014_IMG_4994.JPG" },
+    { "name": "Randy Couture", "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/event_results_athlete_headshot/s3/image/fighter_images/Randy_Couture/randy_couture_500x325_ufc.png?VersionId=ZAfDG2Of5fVHZNMqjq1npWpVCb4tdv26&itok=GIDoknGI" },
+    { "name": "Bas Rutten", "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/card_advance_small_280x356/s3/image/Steve_Articles/BasRuttenPoint.jpg?itok=W2rtT1zD" },
+    { "name": "Kevin Randleman", "img": "https://ufc-video.s3.amazonaws.com/image/BRAZIL_FILES/randleman.jpg" },
+    { "name": "Ricco Rodriguez", "img": "https://www.sherdog.com/image_crop/200/300/_images/fighter/20141225125221_1MG_9472.JPG" },
+    { "name": "Tim Sylvia", "img": "https://www.sherdog.com/image_crop/200/300/_images/fighter/20140413030642_IMG_5067.JPG" },
+    { "name": "Frank Mir", "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/event_results_athlete_headshot/s3/2022-03/fa208625-4fe1-47ab-8bf5-9598ed1028e7%252FFrankMir_Headshot.png?itok=jjzzZwVs" },
+    { "name": "Andrei Arlovski", "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2023-06/ARLOVSKI_ANDREI_L_06-03.png?itok=hzXfBIf3" },
+    { "name": "Brock Lesnar", "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/event_results_athlete_headshot/s3/image/fighter_images/Brock_Lesnar/LESNAR_BROCK.png?VersionId=yjKpjoxaEwrE5wuctoQ2klSKFhQ0j00n&itok=gcJglI9E" },
+    { "name": "Cain Velasquez", "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/event_results_athlete_headshot/s3/image/ufc-fighter-container/67538/profile-galery/profile-picture/VELASQUEZ_CAIN.png?VersionId=Sf8snwvTErj0CNq2s3FV6AbYYuRYkrN2&itok=PJqGOwue" },
+    { "name": "Junior dos Santos", "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2020-08/DOS_SANTOS_JUNIOR_L_03-09.png?VersionId=FV0ISk3jO2pkHaoi4wQOs8PSC3.vFs3c&itok=SvLFsyXQ" },
+    { "name": "Fabricio Werdum", "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/event_results_athlete_headshot/s3/image/fighter_images/Fabricio_Werdum/WERDUM_FABRICIO.png?VersionId=yC3kK8wxzZUiZmK5oYxMnDFJ3D.hnGiW&itok=F7mPaWTk" },
+    { "name": "Stipe Miocic", "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2020-03/MIOCIC_STIPE_L.png?VersionId=AvpdfeJOw_RIVkLQfyNsDDCkr7v26RtH&itok=tBa8SpCC" },
+    { "name": "Daniel Cormier", "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2020-08/CORMIER_DANIEL_L_08-15.png?VersionId=8c0xGmF.jAN.__8bESM5BDrDOjfgi0MX&itok=-L9HNdVo" },
+    { "name": "Francis Ngannou", "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2023-01/NGANNOU_FRANCIS_L_03-27.png?itok=s4MVBS7x" }
+    { "name": "Jon Jones", "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2023-03/JONES_JON_L_BELT_03_04.png?itok=P6J6DQpm" }
   ]
 }
