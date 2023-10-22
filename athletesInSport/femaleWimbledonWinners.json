@@ -1,14 +1,16 @@
 {
   "items": [
-    { "name": "Venus Williams", "img": "placeholder" },
-    { "name": "Serena Williams", "img": "placeholder" },
-    { "name": "Maria Sharapova", "img": "placeholder" },
-    { "name": "Amélie Mauresmo", "img": "placeholder" },
-    { "name": "Petra Kvitová", "img": "placeholder" },
-    { "name": "Marion Bartoli", "img": "placeholder" },
-    { "name": "Garbiñe Muguruza", "img": "placeholder" },
-    { "name": "Angelique Kerber", "img": "placeholder" },
-    { "name": "Simona Halep", "img": "placeholder" },
-    { "name": "Ashleigh Barty", "img": "placeholder" }
+    { "name": "Venus Williams", "img": "https://photoresources.wtatennis.com/photo-resources/2019/10/08/f1dd1872-bfaa-4b82-bb17-ae91a3ebf2bb/WazfwVSd.png?width=950" },
+    { "name": "Serena Williams", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Serena_Williams_at_2013_US_Open.jpg/800px-Serena_Williams_at_2013_US_Open.jpg" },
+    { "name": "Maria Sharapova", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Maria_Sharapova_at_the_2009_Wimbledon_Championships_12_%28cropped%29.jpg/220px-Maria_Sharapova_at_the_2009_Wimbledon_Championships_12_%28cropped%29.jpg" },
+    { "name": "Amélie Mauresmo", "img": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Amelie_Mauresmo_Australian_Open_2005_%28cropped%29.jpg" },
+    { "name": "Petra Kvitová", "img": "https://photoresources.wtatennis.com/photo-resources/2020/09/30/1dfdc52b-00e3-471e-8940-3fa228a32117/Kvitova_Hero-Smile.png?width=950" },
+    { "name": "Marion Bartoli", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marion_Bartoli_at_the_2009_US_Open_01.jpg/220px-Marion_Bartoli_at_the_2009_US_Open_01.jpg" },
+    { "name": "Garbiñe Muguruza", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Muguruza_WM19_%2866%29_%2848521961407%29.jpg/800px-Muguruza_WM19_%2866%29_%2848521961407%29.jpg" },
+    { "name": "Angelique Kerber", "img": "https://ausopen.com/sites/default/files/styles/420x/public/202201/19/kerber_a.png?itok=O-APSUZe" },
+    { "name": "Simona Halep", "img": "https://i2-prod.mirror.co.uk/incoming/article28662822.ece/ALTERNATES/n310p/1_Day-Ten-The-Championships-Wimbledon-2022.jpg" },
+    { "name": "Ashleigh Barty", "img": "https://images.prismic.io/fft-rg-site/4e88663e-c844-4f72-b699-874e72430b6c_20200308_PJ_BartyAshley_US.png?auto=compress,format&rect=0,0,1080,1080&w=300&h=300" },
+    { "name": "Elena Rybakina", "img": "https://photoresources.wtatennis.com/photo-resources/2023/05/30/ad89fbc3-5d58-499e-a86f-8ad1c64956ce/Rybakina-Torso_324166.png?width=950" },
+    { "name": "Markéta Vondroušová", "img": "https://sportsmanheight.com/wp-content/uploads/2022/08/14-2.webp" }
   ]
 }
