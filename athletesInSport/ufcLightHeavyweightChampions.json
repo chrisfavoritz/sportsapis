@@ -1,18 +1,20 @@
 {
   "items": [
-    { "name": "Frank Shamrock", "img": "placeholder" },
-    { "name": "Tito Ortiz", "img": "placeholder" },
-    { "name": "Randy Couture", "img": "placeholder" },
-    { "name": "Vitor Belfort", "img": "placeholder" },
-    { "name": "Chuck Liddell", "img": "placeholder" },
-    { "name": "Quinton \"Rampage\" Jackson", "img": "placeholder" },
-    { "name": "Forrest Griffin", "img": "placeholder" },
-    { "name": "Rashad Evans", "img": "placeholder" },
-    { "name": "Lyoto Machida", "img": "placeholder" },
-    { "name": "Maurício \"Shogun\" Rua", "img": "placeholder" },
-    { "name": "Jon Jones", "img": "placeholder" },
-    { "name": "Daniel Cormier", "img": "placeholder" },
-    { "name": "Jon Jones (second reign)", "img": "placeholder" },
-    { "name": "Jan Błachowicz", "img": "placeholder" }
+    { "name": "Frank Shamrock", "img": "https://www.sherdog.com/image_crop/200/300/_images/fighter/20140921081803_IMG_6367.JPG" },
+    { "name": "Tito Ortiz", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/2335472.png&w=350&h=254" },
+    { "name": "Randy Couture", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/2335338.png&w=350&h=254" },
+    { "name": "Vitor Belfort", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/2354057.png&w=350&h=254" },
+    { "name": "Chuck Liddell", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/2335464.png&w=350&h=254" },
+    { "name": "Quinton \"Rampage\" Jackson", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/2335470.png&w=350&h=254" },
+    { "name": "Forrest Griffin", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/2335522.png&w=350&h=254" },
+    { "name": "Rashad Evans", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/2335465.png&w=350&h=254" },
+    { "name": "Lyoto Machida", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/2335524.png&w=350&h=254" },
+    { "name": "Maurício \"Shogun\" Rua", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/2335514.png&w=350&h=254" },
+    { "name": "Jon Jones", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/2335639.png&w=350&h=254" },
+    { "name": "Daniel Cormier", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/2509290.png&w=350&h=254" },
+    { "name": "Jan Błachowicz", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/2506250.png&w=350&h=254" },
+    { "name": "Glover Teixeira", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/2504929.png&w=350&h=254" },
+    { "name": "Jiri Prochazka", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/3156612.png&w=350&h=254" },
+    { "name": "Jamahal Hill", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/4425355.png&w=350&h=254" }
   ]
 }
