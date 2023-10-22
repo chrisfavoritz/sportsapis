@@ -1,9 +1,9 @@
 {
   "items": [
-    { "name": "Valentina Shevchenko", "img": "placeholder" },
-    { "name": "Joanna Jędrzejczyk", "img": "placeholder" },
-    { "name": "Jessica Andrade", "img": "placeholder" },
-    { "name": "Katlyn Chookagian", "img": "placeholder" },
-    { "name": "Jennifer Maia", "img": "placeholder" }
+    { "name": "Valentina Shevchenko", "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2023-09/SHEVCHENKO_VALENTINA_R_09-16.png?itok=EGk3dCQh" },
+    { "name": "Joanna Jędrzejczyk", "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-06/JEDRZEJCZYK_JOANNA_L_06-11.png?itok=oLc7Iijn" },
+    { "name": "Jessica Andrade", "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2023-08/ANDRADE_JESSICA_L_08-05.png?itok=hq6fHAl9" },
+    { "name": "Katlyn Chookagian", "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-05/fd6b4555-64bc-4a5f-8bb2-11a10b3eb5bb%252FCHOOKAGIAN_KATLYN_L_05-14.png?itok=tyYVBiDU" },
+    { "name": "Jennifer Maia", "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2023-03/MAIA_JENNIFER_L_03-18.png?itok=r9Bl1p0U" }
   ]
 }
