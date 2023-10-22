@@ -1,14 +1,16 @@
 {
   "items": [
-    { "name": "Jens Pulver", "img": "placeholder" },
-    { "name": "Sean Sherk", "img": "placeholder" },
-    { "name": "B.J. Penn", "img": "placeholder" },
-    { "name": "Frankie Edgar", "img": "placeholder" },
-    { "name": "Ben Henderson", "img": "placeholder" },
-    { "name": "Anthony Pettis", "img": "placeholder" },
-    { "name": "Rafael dos Anjos", "img": "placeholder" },
-    { "name": "Eddie Alvarez", "img": "placeholder" },
-    { "name": "Conor McGregor", "img": "placeholder" },
-    { "name": "Khabib Nurmagomedov", "img": "placeholder" }
+    { "name": "Jens Pulver", "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/background_image_sm/s3/image/200/UFC200feature_besttalkers/26202_PULVER.JPG?h=a039cf85&itok=fvcfHtIj" },
+    { "name": "Sean Sherk", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/2335678.png&w=350&h=254" },
+    { "name": "B.J. Penn", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/2335629.png&w=350&h=254" },
+    { "name": "Frankie Edgar", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/2335694.png&w=350&h=254" },
+    { "name": "Ben Henderson", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/2487019.png&w=350&h=254" },
+    { "name": "Anthony Pettis", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/2504171.png&w=350&h=254" },
+    { "name": "Rafael dos Anjos", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/2335687.png&w=350&h=254" },
+    { "name": "Eddie Alvarez", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/2431333.png&w=350&h=254" },
+    { "name": "Conor McGregor", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/3022677.png&w=350&h=254" },
+    { "name": "Khabib Nurmagomedov", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/2611557.png&w=350&h=254" },
+    { "name": "Charles Oliveira", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/2504169.png&w=350&h=254" },
+    { "name": "Islam Makhachev", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/3332412.png&w=350&h=254" }
   ]
 }
