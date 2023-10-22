@@ -1,12 +1,12 @@
 {
   "items": [
-    { "name": "Gustavo Kuerten", "img": "placeholder" },
-    { "name": "Albert Costa", "img": "placeholder" },
-    { "name": "Juan Carlos Ferrero", "img": "placeholder" },
-    { "name": "Gastón Gaudio", "img": "placeholder" },
-    { "name": "Rafael Nadal", "img": "placeholder" },
-    { "name": "Roger Federer", "img": "placeholder" },
-    { "name": "Stan Wawrinka", "img": "placeholder" },
-    { "name": "Novak Djokovic", "img": "placeholder" }
+    { "name": "Gustavo Kuerten", "img": "https://www.atptour.com/-/media/tennis/players/gladiator/2016/08/05/21/07/kuerten-atpwt-player-photo-template-f15.png" },
+    { "name": "Albert Costa", "img": "https://www.atptour.com/-/media/alias/player-headshot/C378" },
+    { "name": "Juan Carlos Ferrero", "img": "https://www.atptour.com/-/media/tennis/players/gladiator/2016/08/05/21/06/ferrero-atpwt-player-photo-template-f15.png" },
+    { "name": "Gastón Gaudio", "img": "https://www.atptour.com/-/media/alias/player-headshot/G374" },
+    { "name": "Rafael Nadal", "img": "https://www.atptour.com/-/media/tennis/players/gladiator/2022/05/25/15/07/nadal-full-2022-may.png" },
+    { "name": "Roger Federer", "img": "https://www.atptour.com/-/media/tennis/players/gladiator/2020/03/23/10/19/federer_full_ao20.png" },
+    { "name": "Stan Wawrinka", "img": "https://www.atptour.com/-/media/tennis/players/gladiator/2020/03/24/11/21/wawrinka_full_ao20.png" },
+    { "name": "Novak Djokovic", "img": "https://www.atptour.com/-/media/tennis/players/gladiator/2019/02/25/18/13/djokovic_full_ao19.png" }
   ]
 }
