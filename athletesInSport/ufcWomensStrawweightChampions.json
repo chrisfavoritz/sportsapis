@@ -1,9 +1,9 @@
 {
   "items": [
-    { "name": "Carla Esparza", "img": "placeholder" },
-    { "name": "Joanna Jędrzejczyk", "img": "placeholder" },
-    { "name": "Rose Namajunas", "img": "placeholder" },
-    { "name": "Jessica Andrade", "img": "placeholder" },
-    { "name": "Weili Zhang", "img": "placeholder" }
+    { "name": "Carla Esparza", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/2559934.png&w=350&h=254" },
+    { "name": "Joanna Jędrzejczyk", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/3106617.png&w=350&h=254" },
+    { "name": "Rose Namajunas", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/3032973.png&w=350&h=254" },
+    { "name": "Jessica Andrade", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/3024395.png&w=350&h=254" },
+    { "name": "Weili Zhang", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/4350762.png&w=350&h=254" }
   ]
 }
