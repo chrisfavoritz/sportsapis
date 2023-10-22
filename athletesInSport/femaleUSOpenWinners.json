@@ -1,17 +1,19 @@
 {
   "items": [
-    { "name": "Venus Williams", "img": "placeholder" },
-    { "name": "Serena Williams", "img": "placeholder" },
-    { "name": "Justine Henin", "img": "placeholder" },
-    { "name": "Svetlana Kuznetsova", "img": "placeholder" },
-    { "name": "Kim Clijsters", "img": "placeholder" },
-    { "name": "Maria Sharapova", "img": "placeholder" },
-    { "name": "Samantha Stosur", "img": "placeholder" },
-    { "name": "Flavia Pennetta", "img": "placeholder" },
-    { "name": "Angelique Kerber", "img": "placeholder" },
-    { "name": "Sloane Stephens", "img": "placeholder" },
-    { "name": "Naomi Osaka", "img": "placeholder" },
-    { "name": "Bianca Andreescu", "img": "placeholder" },
-    { "name": "Emma Raducanu", "img": "placeholder" }
+    { "name": "Venus Williams", "img": "https://photoresources.wtatennis.com/photo-resources/2019/10/08/f1dd1872-bfaa-4b82-bb17-ae91a3ebf2bb/WazfwVSd.png?width=950" },
+    { "name": "Serena Williams", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Serena_Williams_at_2013_US_Open.jpg/800px-Serena_Williams_at_2013_US_Open.jpg" },
+    { "name": "Justine Henin", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Justine_henin_hardenne_medibank_international_2006_small.JPG/250px-Justine_henin_hardenne_medibank_international_2006_small.JPG" },
+    { "name": "Svetlana Kuznetsova", "img": "https://photoresources.wtatennis.com/photo-resources/2020/09/30/ed4fc3a2-b3c7-4c5f-96e0-b0411cb77a72/Kuznetsova_Hero-Smile.png?height=600" },
+    { "name": "Kim Clijsters", "img": "https://photoresources.wtatennis.com/photo-resources/2020/09/28/3e3d30bc-e707-44ee-ad38-dea019fc599b/Clijsters_Hero-Smile.png?height=600" },
+    { "name": "Maria Sharapova", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Maria_Sharapova_at_the_2009_Wimbledon_Championships_12_%28cropped%29.jpg/220px-Maria_Sharapova_at_the_2009_Wimbledon_Championships_12_%28cropped%29.jpg" },
+    { "name": "Samantha Stosur", "img": "https://ausopen.com/sites/default/files/styles/420x/public/stosur_pp_h.png?itok=kRR447nj" },
+    { "name": "Flavia Pennetta", "img": "https://images.prismic.io/fft-rg-site/1d794d1f-8cd8-4acc-b51d-f4ed8ebada40_20220530_PJ_PennettaFlavia_US.png?auto=compress,format&rect=0,0,1080,1080&w=400&h=400" },
+    { "name": "Angelique Kerber", "img": "https://ausopen.com/sites/default/files/styles/420x/public/202201/19/kerber_a.png?itok=O-APSUZe" },
+    { "name": "Sloane Stephens", "img": "https://photoresources.wtatennis.com/photo-resources/2023/06/02/cc965535-cd44-4c03-84a1-f97e71081032/Stephens-Torso_315683.png?width=950" },
+    { "name": "Naomi Osaka", "img": "https://cdn.central.rookieme.com/wp-content/uploads/sites/5/2019/11/Naomi-Osaka.png" },
+    { "name": "Bianca Andreescu", "img": "https://cdn.central.rookieme.com/wp-content/uploads/sites/5/2019/11/Bianca-Andreescu.png" },
+    { "name": "Emma Raducanu", "img": "https://images.prismic.io/fft-rg-site/46c76855-050d-43a6-901a-12230d600ca6_02010701_PJ_RaducanuEmma_US.png?auto=compress,format&rect=0,0,1080,1080&w=400&h=400" },
+    { "name": "Iga Świątek", "img": "https://photoresources.wtatennis.com/photo-resources/2023/03/23/1688716e-271a-4fed-abc6-2dc026a5dd7f/Swiatek-Torso_326408.png?width=950" },
+    { "name": "Coco Gauff", "img": "https://photoresources.wtatennis.com/photo-resources/2020/06/30/31c090b2-e38f-4ad2-8eee-9415aad508ee/Gauff_Hero-Smile.png?width=950" }
   ]
 }
