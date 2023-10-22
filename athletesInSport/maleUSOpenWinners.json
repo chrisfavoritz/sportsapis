@@ -1,17 +1,18 @@
 {
   "items": [
-    { "name": "Marat Safin", "img": "placeholder" },
-    { "name": "Lleyton Hewitt", "img": "placeholder" },
-    { "name": "Pete Sampras", "img": "placeholder" },
-    { "name": "Andy Roddick", "img": "placeholder" },
-    { "name": "Roger Federer", "img": "placeholder" },
-    { "name": "Juan Martín del Potro", "img": "placeholder" },
-    { "name": "Rafael Nadal", "img": "placeholder" },
-    { "name": "Novak Djokovic", "img": "placeholder" },
-    { "name": "Andy Murray", "img": "placeholder" },
-    { "name": "Marin Čilić", "img": "placeholder" },
-    { "name": "Stan Wawrinka", "img": "placeholder" },
-    { "name": "Dominic Thiem", "img": "placeholder" },
-    { "name": "Daniil Medvedev", "img": "placeholder" }
+    { "name": "Marat Safin", "img": "https://www.atptour.com/-/media/tennis/players/gladiator/2016/08/05/21/08/safin-atpwt-player-photo-template-f15.png" },
+    { "name": "Lleyton Hewitt", "img": "https://www.atptour.com/-/media/tennis/players/gladiator/2016/08/05/21/21/hewitt-atpwt-player-photo-template-f_v2.png" },
+    { "name": "Pete Sampras", "img": "https://www.atptour.com/-/media/tennis/players/gladiator/2016/08/05/21/22/sampras_v1.png" },
+    { "name": "Andy Roddick", "img": "https://www.atptour.com/-/media/tennis/players/gladiator/2016/08/05/21/08/roddick-atpwt-player-photo-template-f.png" },
+    { "name": "Roger Federer", "img": "https://www.atptour.com/-/media/tennis/players/gladiator/2020/03/23/10/19/federer_full_ao20.png" },
+    { "name": "Juan Martín del Potro", "img": "https://www.atptour.com/-/media/tennis/players/gladiator/2019/05/13/18/37/delpotro_full_rome19.png" },
+    { "name": "Rafael Nadal", "img": "https://www.atptour.com/-/media/tennis/players/gladiator/2022/05/25/15/07/nadal-full-2022-may.png" },
+    { "name": "Novak Djokovic", "img": "https://www.atptour.com/-/media/tennis/players/gladiator/2019/02/25/18/13/djokovic_full_ao19.png" },
+    { "name": "Andy Murray", "img": "https://www.atptour.com/-/media/tennis/players/gladiator/2022/06/16/23/49/a-murray-full-2022-june-1.png" },
+    { "name": "Marin Čilić", "img": "https://www.atptour.com/-/media/tennis/players/gladiator/2022/05/25/15/15/cilic-full-2022-may.png" },
+    { "name": "Stan Wawrinka", "img": "https://www.atptour.com/-/media/tennis/players/gladiator/2020/03/24/11/21/wawrinka_full_ao20.png" },
+    { "name": "Dominic Thiem", "img": "https://www.atptour.com/-/media/tennis/players/gladiator/2020/03/24/11/21/wawrinka_full_ao20.png" },
+    { "name": "Daniil Medvedev", "img": "https://www.atptour.com/-/media/tennis/players/gladiator/2022/05/18/21/12/medvedev-full-2022-may.png" },
+    { "name": "Carlos Alcaraz", "img": "https://www.atptour.com/-/media/tennis/players/gladiator/2022/05/25/15/16/alcaraz-full-2022-may.png" }
   ]
 }
