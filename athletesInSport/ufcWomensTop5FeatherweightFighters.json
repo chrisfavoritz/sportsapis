@@ -1,9 +1,9 @@
 {
   "items": [
-    { "name": "Amanda Nunes", "img": "placeholder" },
-    { "name": "Cris Cyborg", "img": "placeholder" },
-    { "name": "Germaine de Randamie", "img": "placeholder" },
-    { "name": "Felicia Spencer", "img": "placeholder" },
-    { "name": "Megan Anderson", "img": "placeholder" }
+    { "name": "Amanda Nunes", "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2023-06/NUNES_AMANDA_L_BELTX2_06-10.png?itok=8tM-g-Vq" },
+    { "name": "Cris Cyborg", "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2019-06/CYBORG_CRIS_L_0.png?VersionId=8RkA6LjP76IrkyjrMo1KpGcdZqQMUWJ_&itok=Txcn0jK1" },
+    { "name": "Germaine de Randamie", "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2020-03/DE_RANDAMIE_GERMAINE_L.png?VersionId=awoslkkIKderV3vHAexEvvAuN05TtaNd&itok=93K5P7ol" },
+    { "name": "Felicia Spencer", "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-05/71456%252Fprofile-galery%252Ffullbodyleft-picture%252FSPENCER_FELICIA_L_05-22.png?itok=uDZk8dp7" },
+    { "name": "Megan Anderson", "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-03/68788%252Fprofile-galery%252Ffullbodyleft-picture%252FANDERSON_MEGAN_L_03-06.png?itok=xHtxrVFj" }
   ]
 }
