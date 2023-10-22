@@ -1,14 +1,17 @@
 {
   "items": [
-    { "name": "Dave Menne", "img": "placeholder" },
-    { "name": "Murilo Bustamante", "img": "placeholder" },
-    { "name": "Evan Tanner", "img": "placeholder" },
-    { "name": "Rich Franklin", "img": "placeholder" },
-    { "name": "Anderson Silva", "img": "placeholder" },
-    { "name": "Chris Weidman", "img": "placeholder" },
-    { "name": "Michael Bisping", "img": "placeholder" },
-    { "name": "Georges St-Pierre", "img": "placeholder" },
-    { "name": "Robert Whittaker", "img": "placeholder" },
-    { "name": "Israel Adesanya", "img": "placeholder" }
+    { "name": "Dave Menne", "img": "https://www.sherdog.com/image_crop/200/300/_images/fighter/20081030092600_menne.JPG" },
+    { "name": "Murilo Bustamante", "img": "https://www1-cdn.sherdog.com/_images/pictures/20100719072232_DesignzFuzion_100432.JPG" },
+    { "name": "Evan Tanner", "img": "https://upload.wikimedia.org/wikipedia/en/d/d2/EvanTanner.jpg" },
+    { "name": "Rich Franklin", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/2335498.png&w=350&h=254" },
+    { "name": "Anderson Silva", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/2335447.png&w=350&h=254" },
+    { "name": "Chris Weidman", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/2553993.png&w=350&h=254" },
+    { "name": "Luke Rockhold", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/2519811.png&w=350&h=254" },
+    { "name": "Michael Bisping", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/2335602.png&w=350&h=254" },
+    { "name": "Georges St-Pierre", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/2335659.png&w=350&h=254" },
+    { "name": "Robert Whittaker", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/3009717.png&w=350&h=254" },
+    { "name": "Israel Adesanya", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/4285679.png&w=350&h=254" },
+    { "name": "Alex Pereira", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/4705658.png&w=350&h=254" },
+    { "name": "Sean Strickland", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/3093653.png&w=350&h=254" }
   ]
 }
