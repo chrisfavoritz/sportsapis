@@ -1,14 +1,9 @@
 {
   "items": [
-    { "name": "Amanda Nunes", "img": "placeholder" },
-    { "name": "Ronda Rousey", "img": "placeholder" },
-    { "name": "Holly Holm", "img": "placeholder" },
-    { "name": "Miesha Tate", "img": "placeholder" },
-    { "name": "Valentina Shevchenko", "img": "placeholder" },
-    { "name": "Raquel Pennington", "img": "placeholder" },
-    { "name": "Germaine de Randamie", "img": "placeholder" },
-    { "name": "Ketlen Vieira", "img": "placeholder" },
-    { "name": "Irene Aldana", "img": "placeholder" },
-    { "name": "Aspen Ladd", "img": "placeholder" }
+    { "name": "Ronda Rousey", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/2563796.png&w=350&h=254" },
+    { "name": "Holly Holm", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/3028404.png&w=350&h=254" },
+    { "name": "Miesha Tate", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/2553021.png&w=350&h=254" },
+    { "name": "Amanda Nunes", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/2516131.png&w=350&h=254" },
+    { "name": "Julianna Peña", "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/2951361.png&w=350&h=254" }
   ]
 }
