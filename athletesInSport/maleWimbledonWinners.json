@@ -1,13 +1,12 @@
 {
   "items": [
-    { "name": "Pete Sampras", "img": "placeholder" },
-    { "name": "Goran Ivanišević", "img": "placeholder" },
-    { "name": "Lleyton Hewitt", "img": "placeholder" },
-    { "name": "Roger Federer", "img": "placeholder" },
-    { "name": "Rafael Nadal", "img": "placeholder" },
-    { "name": "Novak Djokovic", "img": "placeholder" },
-    { "name": "Andy Murray", "img": "placeholder" },
-    { "name": "Andy Murray", "img": "placeholder" },
-    { "name": "Great Britain", "img": "placeholder" }
+    { "name": "Pete Sampras", "img": "https://www.atptour.com/-/media/tennis/players/gladiator/2016/08/05/21/22/sampras_v1.png" },
+    { "name": "Goran Ivanišević", "img": "https://images.prismic.io/fft-rg-site/8e8a10ed-2e70-4469-8d20-942ea9f57396_20220530_PJ_IvanisevicGoran_US.png?auto=compress,format&rect=0,0,1080,1080&w=400&h=400" },
+    { "name": "Lleyton Hewitt", "img": "https://www.atptour.com/-/media/tennis/players/gladiator/2016/08/05/21/21/hewitt-atpwt-player-photo-template-f_v2.png" },
+    { "name": "Roger Federer", "img": "https://www.atptour.com/-/media/tennis/players/gladiator/2020/03/23/10/19/federer_full_ao20.png" },
+    { "name": "Rafael Nadal", "img": "https://www.atptour.com/-/media/tennis/players/gladiator/2022/05/25/15/07/nadal-full-2022-may.png" },
+    { "name": "Novak Djokovic", "img": "https://www.atptour.com/-/media/tennis/players/gladiator/2019/02/25/18/13/djokovic_full_ao19.png" },
+    { "name": "Andy Murray", "img": "https://www.atptour.com/-/media/tennis/players/gladiator/2022/06/16/23/49/a-murray-full-2022-june-1.png" },
+    { "name": "Carlos Alcaraz", "img": "https://www.atptour.com/-/media/tennis/players/gladiator/2022/05/25/15/16/alcaraz-full-2022-may.png" }
   ]
 }
