@@ -1,0 +1,30 @@
+{
+  "items": [
+    { "name": "LeBron James", "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/2544.png" },
+    { "name": "Luka Dončić", "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629029.png" },
+    { "name": "Nikola Jokić", "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/203999.png" },
+    { "name": "Kevin Durant", "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/201142.png" },
+    { "name": "Shai Gilgeous-Alexander", "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628983.png" },
+    { "name": "Kawhi Leonard", "img": "https://cdn.nba.com/headshots/nba/latest/260x190/202695.png" },
+    { "name": "Paul George", "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/202331.png" },
+    { "name": "Karl-Anthony Towns", "img": "https://cdn.nba.com/headshots/nba/latest/260x190/1626157.png" },
+    { "name": "Anthony Edwards", "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630162.png" },
+    { "name": "Anthony Davis", "img": "https://cdn.nba.com/headshots/nba/latest/260x190/203076.png" },
+    { "name": "Devin Booker", "img": "https://cdn.nba.com/headshots/nba/latest/260x190/1626164.png" },
+    { "name": "Stephen Curry", "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/201939.png" },
+    { "name": "Donovan Mitchell", "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628378.png" },
+    { "name": "Giannis Antetokounmpo", "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/203507.png" },
+    { "name": "Damian Lillard", "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/203081.png" },
+    { "name": "Trae Young", "img": "https://cdn.nba.com/headshots/nba/latest/260x190/1629027.png" },
+    { "name": "Jayson Tatum", "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628369.png" },
+    { "name": "Jaylen Brown", "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627759.png" },
+    { "name": "Scottie Barnes", "img": "https://cdn.nba.com/headshots/nba/latest/260x190/1630567.png" },
+    { "name": "Tyrese Haliburton", "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630169.png" },
+    { "name": "Julius Randle", "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/203944.png" },
+    { "name": "Bam Adebayo", "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628389.png" },
+    { "name": "Tyrese Maxey", "img": "https://cdn.nba.com/headshots/nba/latest/260x190/1630178.png" },
+    { "name": "Jalen Brunson", "img": "https://cdn.nba.com/headshots/nba/latest/260x190/1628973.png" },
+    { "name": "Joel Embiid", "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/203954.png" },
+    { "name": "Paolo Banchero", "img": "https://cdn.nba.com/headshots/nba/latest/260x190/1631094.png" }
+  ]
+}
